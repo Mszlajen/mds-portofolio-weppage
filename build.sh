@@ -1,0 +1,1 @@
+python src/build.py src/pages.json bin src/templates

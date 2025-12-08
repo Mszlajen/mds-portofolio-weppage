@@ -1,0 +1,30 @@
+{
+    "202511": [
+        {
+            "file": "jardinbotanico.html",
+            "title": "Jardin Botanico CABA",
+            "images_path": "images/jardin botanico",
+            "images_folder": "bin/images/jardin botanico"
+            
+        },
+        {
+            "file": "lasflores.html",
+            "title": "Las Flores",
+            "images_path": "images/las flores",
+            "images_folder": "bin/images/las flores"
+        },
+        {
+            "file": "miramaransenuza.html",
+            "title": "Miramar de Ansenuza",
+            "images_path": "images/miramar de ansenuza",
+            "images_folder": "bin/images/miramar de ansenuza",
+            "thumbnail": "images/miramar de ansenuza/DSCN4512.webp"
+        },
+        {
+            "file": "playasdoradas.html",
+            "title": "Playas Doradas",
+            "images_path": "images/playas doradas",
+            "images_folder": "bin/images/playas doradas"
+        }
+    ]
+}
