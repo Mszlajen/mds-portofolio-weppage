@@ -14,7 +14,7 @@ class Gallery(BaseModel):
 
     @cached_property
     def link(self):
-        return f"{self.group}/{self.file}"
+        return f"/{self.group}/{self.file}"
 
 class Image(BaseModel):
     src: str
