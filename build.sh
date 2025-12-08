@@ -1,1 +1,1 @@
-python src/build.py pages.json debug src/templates
+python src/build.py src/pages.json bin src/templates
