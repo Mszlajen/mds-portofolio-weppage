@@ -1,0 +1,1 @@
+python src/build.py pages.json debug src/templates
