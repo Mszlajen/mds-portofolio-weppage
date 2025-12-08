@@ -9,7 +9,7 @@ class Gallery(BaseModel):
     images_folder: str = ""
     images_path: str = ""
     images: 'list[Image]' = Field(default_factory=lambda data: [Image(src = f"{data['images_path']}/{filename}") for filename in listdir(data["images_folder"])])
-    thumbnail: str = Field(default=lambda data: data['images'][0].src)
+    thumbnail: str = Field(default_factory=lambda data: data['images'][0].src)
     alt_text: str = ""
 
     @cached_property
