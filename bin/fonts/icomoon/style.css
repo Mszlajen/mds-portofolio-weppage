@@ -616,6 +616,7 @@
   content: "\f0c8";
 }
 .icon-bars:before {
+  color:white;
   content: "\f0c9";
 }
 .icon-navicon:before {
