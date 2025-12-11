@@ -1,4 +1,13 @@
 {
+    "202500": [
+        {
+            "file": "20232024.html",
+            "title": "2023 - 2024",
+            "images_path": "/images/2023-2025",
+            "images_folder": "bin/images/2023-2025"
+            
+        }
+    ],
     "202511": [
         {
             "file": "jardinbotanicocaba.html",
