@@ -4,7 +4,8 @@ from json import load
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from models import Gallery
 from functools import reduce
-
+from datetime import datetime
+from email.utils import format_datetime
 
 argv = {i: value for i, value in enumerate(argv)}
 
@@ -39,7 +40,7 @@ if __name__ == '__main__':
     render_file(env, 'contact.html', path.join(output_folder, 'contact.html'), contact_active=True, recent=recent_galleries)
     render_file(env, 'newsletter.html', path.join(output_folder, 'newsletter.html'), newsletter_active=True, recent=recent_galleries)
 
-    render_file(env, 'rss.xml', path.join(output_folder, 'rss.xml'), galleries=flatten_galleries)
+    render_file(env, 'rss.xml', path.join(output_folder, 'rss.xml'), build_date=format_datetime(datetime.now()), galleries=flatten_galleries)
     
     render_file(env, 'index.html', path.join(output_folder, 'index.html'), galleries=flatten_galleries, recent=recent_galleries, home_active = True)
 
