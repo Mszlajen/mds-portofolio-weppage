@@ -36,693 +36,693 @@
             "images_folder": "bin/images/playas doradas"
         }
     ],
-    "202501": [
+    "202601": [
         {
             "file": "antropodos_parque_centenario.html",
             "title": "Antropodos Parque Centenario",
             "images": [
                 {
-                    "src": "bin/images/antropodos parque centenario/Abejas_-_Abejas_del_sudor_-_Familia_Halictidae__1.webp",
+                    "src": "/images/antropodos parque centenario/Abejas_-_Abejas_del_sudor_-_Familia_Halictidae__1.webp",
                     "sub_html": "Abejas del sudor - Familia Halictidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Abejas_-_Abejas_del_sudor_-_Familia_Halictidae__2.webp",
+                    "src": "/images/antropodos parque centenario/Abejas_-_Abejas_del_sudor_-_Familia_Halictidae__2.webp",
                     "sub_html": "Abejas del sudor - Familia Halictidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Abejas_-_Abejas_del_sudor_-_Familia_Halictidae__3.webp",
+                    "src": "/images/antropodos parque centenario/Abejas_-_Abejas_del_sudor_-_Familia_Halictidae__3.webp",
                     "sub_html": "Abejas del sudor - Familia Halictidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Abejas_-_Abeja_del_sudor_-_Lasioglossum_1.webp",
+                    "src": "/images/antropodos parque centenario/Abejas_-_Abeja_del_sudor_-_Lasioglossum_1.webp",
                     "sub_html": "Abeja del sudor - Lasioglossum"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Abejas_-_Abeja_del_sudor_-_Lasioglossum_2.webp",
+                    "src": "/images/antropodos parque centenario/Abejas_-_Abeja_del_sudor_-_Lasioglossum_2.webp",
                     "sub_html": "Abeja del sudor - Lasioglossum"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Abejas_-_Abeja_del_sudor_-_Lasioglossum_3.webp",
+                    "src": "/images/antropodos parque centenario/Abejas_-_Abeja_del_sudor_-_Lasioglossum_3.webp",
                     "sub_html": "Abeja del sudor - Lasioglossum"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Abejas_-_Abeja_dom\u00e9stica_1.webp",
+                    "src": "/images/antropodos parque centenario/Abejas_-_Abeja_dom\u00e9stica_1.webp",
                     "sub_html": "Abeja dom\u00e9stica"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Abejas_-_Abeja_dom\u00e9stica_2.webp",
+                    "src": "/images/antropodos parque centenario/Abejas_-_Abeja_dom\u00e9stica_2.webp",
                     "sub_html": "Abeja dom\u00e9stica"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Abejas_-_Abeja_dom\u00e9stica_3.webp",
+                    "src": "/images/antropodos parque centenario/Abejas_-_Abeja_dom\u00e9stica_3.webp",
                     "sub_html": "Abeja dom\u00e9stica"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Abejas_-_Abeja_dom\u00e9stica_4.webp",
+                    "src": "/images/antropodos parque centenario/Abejas_-_Abeja_dom\u00e9stica_4.webp",
                     "sub_html": "Abeja dom\u00e9stica"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Abejas_-_Abeja_solitaria_-_Centris_sp._1.webp",
+                    "src": "/images/antropodos parque centenario/Abejas_-_Abeja_solitaria_-_Centris_sp._1.webp",
                     "sub_html": "Abeja solitaria - Centris sp."
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Abejoros_-_Abejorro_del_Mburucuy\u00e1_2.webp",
+                    "src": "/images/antropodos parque centenario/Abejoros_-_Abejorro_del_Mburucuy\u00e1_2.webp",
                     "sub_html": "Abejorro del Mburucuy\u00e1"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Aphirape_1.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Aphirape_1.webp",
                     "sub_html": "Aphirape"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Aphirape_2.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Aphirape_2.webp",
                     "sub_html": "Aphirape"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Arachosia_praesignis_1.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Arachosia_praesignis_1.webp",
                     "sub_html": "Arachosia praesignis"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Arachosia_praesignis_2.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Arachosia_praesignis_2.webp",
                     "sub_html": "Arachosia praesignis"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_cangrejo_-_Misumenops_sp._1.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_cangrejo_-_Misumenops_sp._1.webp",
                     "sub_html": "Ara\u00f1a cangrejo - Misumenops sp."
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_de_mand\u00edbulas_largas_-_Tethragnatha_sp._1.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_de_mand\u00edbulas_largas_-_Tethragnatha_sp._1.webp",
                     "sub_html": "Ara\u00f1a de mand\u00edbulas largas - Tethragnatha sp."
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_de_mand\u00edbulas_largas_-_Tethragnatha_sp._2.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_de_mand\u00edbulas_largas_-_Tethragnatha_sp._2.webp",
                     "sub_html": "Ara\u00f1a de mand\u00edbulas largas - Tethragnatha sp."
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_de_patio.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_de_patio.webp",
                     "sub_html": "Ara\u00f1a de patio"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_de_tela_desordenada_1.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_de_tela_desordenada_1.webp",
                     "sub_html": "Ara\u00f1a de tela desordenada"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_plateada_-_Leucauge_sp._1.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_plateada_-_Leucauge_sp._1.webp",
                     "sub_html": "Ara\u00f1a plateada - Leucauge sp."
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_plateada_-_Leucauge_sp._2.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_plateada_-_Leucauge_sp._2.webp",
                     "sub_html": "Ara\u00f1a plateada - Leucauge sp."
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_Tejedora_Roja_4.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_Tejedora_Roja_4.webp",
                     "sub_html": "Ara\u00f1a Tejedora Roja"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Chira_gounellei_1.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Chira_gounellei_1.webp",
                     "sub_html": "Chira gounellei"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Chira_gounellei_2.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Chira_gounellei_2.webp",
                     "sub_html": "Chira gounellei"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Saitis_variegatus_(ara\u00f1a_saltarina)_1.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Saitis_variegatus_(ara\u00f1a_saltarina)_1.webp",
                     "sub_html": "Saitis variegatus (ara\u00f1a saltarina)"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Saitis_variegatus_(ara\u00f1a_saltarina)_2.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Saitis_variegatus_(ara\u00f1a_saltarina)_2.webp",
                     "sub_html": "Saitis variegatus (ara\u00f1a saltarina)"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_1.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_1.webp",
                     "sub_html": "Salticidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_2.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_2.webp",
                     "sub_html": "Salticidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_3.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_3.webp",
                     "sub_html": "Salticidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_4.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_4.webp",
                     "sub_html": "Salticidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_5.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_5.webp",
                     "sub_html": "Salticidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_6.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_6.webp",
                     "sub_html": "Salticidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_7.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Salticidae_7.webp",
                     "sub_html": "Salticidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Abejoros_-_Abejorro_del_Mburucuy\u00e1_1.webp",
+                    "src": "/images/antropodos parque centenario/Abejoros_-_Abejorro_del_Mburucuy\u00e1_1.webp",
                     "sub_html": "Abejorro del Mburucuy\u00e1"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_Tejedora_Roja_3.webp",
+                    "src": "/images/antropodos parque centenario/Ara\u00f1as_-_Ara\u00f1a_Tejedora_Roja_3.webp",
                     "sub_html": "Ara\u00f1a Tejedora Roja"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Avispas_-_Avispa_de_la_arena_-_Bicyrtes_variegatus_1.webp",
+                    "src": "/images/antropodos parque centenario/Avispas_-_Avispa_de_la_arena_-_Bicyrtes_variegatus_1.webp",
                     "sub_html": "Avispa de la arena - Bicyrtes variegatus"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Chinches_-_Chinche_cazadora_rayada_-_Cosmoclopius_nigroannulatus_1.webp",
+                    "src": "/images/antropodos parque centenario/Chinches_-_Chinche_cazadora_rayada_-_Cosmoclopius_nigroannulatus_1.webp",
                     "sub_html": "Chinche cazadora rayada - Cosmoclopius nigroannulatus"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Escarabajos_-_Burrito_de_la_vid_4.webp",
+                    "src": "/images/antropodos parque centenario/Escarabajos_-_Burrito_de_la_vid_4.webp",
                     "sub_html": "Burrito de la vid"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Hormigas_-_Hormiga_carpinteraCamponotus_mus_1.webp",
+                    "src": "/images/antropodos parque centenario/Hormigas_-_Hormiga_carpinteraCamponotus_mus_1.webp",
                     "sub_html": "Hormiga carpinteraCamponotus mus"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Libelilulas_-_Lib\u00e9lula_-_Erythrodiplax_nigricans_4.webp",
+                    "src": "/images/antropodos parque centenario/Libelilulas_-_Lib\u00e9lula_-_Erythrodiplax_nigricans_4.webp",
                     "sub_html": "Lib\u00e9lula - Erythrodiplax nigricans"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Limoncito_2.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Limoncito_2.webp",
                     "sub_html": "Limoncito"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_DSCN9894.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_DSCN9894.webp",
                     "sub_html": "DSCN9894"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Mosca_Soldado_Negra_-_Stratiomyidae_3.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Mosca_Soldado_Negra_-_Stratiomyidae_3.webp",
                     "sub_html": "Mosca Soldado Negra - Stratiomyidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Otros_-_Crisopa_verde_-_Chrysoperla_externa_1.webp",
+                    "src": "/images/antropodos parque centenario/Otros_-_Crisopa_verde_-_Chrysoperla_externa_1.webp",
                     "sub_html": "Crisopa verde - Chrysoperla externa"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Polillas_-_Polilla_cigarrito_arlequ\u00edn_-_Atteva_pustulella__2.webp",
+                    "src": "/images/antropodos parque centenario/Polillas_-_Polilla_cigarrito_arlequ\u00edn_-_Atteva_pustulella__2.webp",
                     "sub_html": "Polilla cigarrito arlequ\u00edn - Atteva pustulella"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Avispas_-_Avispa_de_la_arena_-_Bicyrtes_variegatus_5.webp",
+                    "src": "/images/antropodos parque centenario/Avispas_-_Avispa_de_la_arena_-_Bicyrtes_variegatus_5.webp",
                     "sub_html": "Avispa de la arena - Bicyrtes variegatus"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Avispas_-_Avispa_de_la_arena_-_Bicyrtes_variegatus_6.webp",
+                    "src": "/images/antropodos parque centenario/Avispas_-_Avispa_de_la_arena_-_Bicyrtes_variegatus_6.webp",
                     "sub_html": "Avispa de la arena - Bicyrtes variegatus"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Avispas_-_Avispa_Parasita_-_Ichneumonidae_1.webp",
+                    "src": "/images/antropodos parque centenario/Avispas_-_Avispa_Parasita_-_Ichneumonidae_1.webp",
                     "sub_html": "Avispa Parasita - Ichneumonidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Avispas_-_Lechiguana_-_Brachygastra_lecheguana_1.webp",
+                    "src": "/images/antropodos parque centenario/Avispas_-_Lechiguana_-_Brachygastra_lecheguana_1.webp",
                     "sub_html": "Lechiguana - Brachygastra lecheguana"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Avispas_-_Lechiguana_-__Brachygastra_lecheguana_2.webp",
+                    "src": "/images/antropodos parque centenario/Avispas_-_Lechiguana_-__Brachygastra_lecheguana_2.webp",
                     "sub_html": "Lechiguana -  Brachygastra lecheguana"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Avispas_-_Mesostenina_1.webp",
+                    "src": "/images/antropodos parque centenario/Avispas_-_Mesostenina_1.webp",
                     "sub_html": "Mesostenina"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Avispas_-_Mesostenina_2.webp",
+                    "src": "/images/antropodos parque centenario/Avispas_-_Mesostenina_2.webp",
                     "sub_html": "Mesostenina"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Chinches_-_Chinche_algodonera_-_Dysdercus_1.webp",
+                    "src": "/images/antropodos parque centenario/Chinches_-_Chinche_algodonera_-_Dysdercus_1.webp",
                     "sub_html": "Chinche algodonera - Dysdercus"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Chinches_-_Chinche_algodonera_-_Dysdercus_2.webp",
+                    "src": "/images/antropodos parque centenario/Chinches_-_Chinche_algodonera_-_Dysdercus_2.webp",
                     "sub_html": "Chinche algodonera - Dysdercus"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Chinches_-_Chinche_algodonera_-_Dysdercus_3.webp",
+                    "src": "/images/antropodos parque centenario/Chinches_-_Chinche_algodonera_-_Dysdercus_3.webp",
                     "sub_html": "Chinche algodonera - Dysdercus"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Chinches_-_Chinche_Asesina_Norteamericana_3.webp",
+                    "src": "/images/antropodos parque centenario/Chinches_-_Chinche_Asesina_Norteamericana_3.webp",
                     "sub_html": "Chinche Asesina Norteamericana"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Chinches_-_Chinche_cazadora_rayada_-_Cosmoclopius_nigroannulatus_2.webp",
+                    "src": "/images/antropodos parque centenario/Chinches_-_Chinche_cazadora_rayada_-_Cosmoclopius_nigroannulatus_2.webp",
                     "sub_html": "Chinche cazadora rayada - Cosmoclopius nigroannulatus"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Cochinillas_-_Bicho_bolita_1.webp",
+                    "src": "/images/antropodos parque centenario/Cochinillas_-_Bicho_bolita_1.webp",
                     "sub_html": "Bicho bolita"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Cochinillas_-_Bicho_bolita_2.webp",
+                    "src": "/images/antropodos parque centenario/Cochinillas_-_Bicho_bolita_2.webp",
                     "sub_html": "Bicho bolita"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Cochinillas_-_Bicho_bolita_3.webp",
+                    "src": "/images/antropodos parque centenario/Cochinillas_-_Bicho_bolita_3.webp",
                     "sub_html": "Bicho bolita"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Cochinillas_-_Cochinilla_algodonosa_3.webp",
+                    "src": "/images/antropodos parque centenario/Cochinillas_-_Cochinilla_algodonosa_3.webp",
                     "sub_html": "Cochinilla algodonosa"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Cochinillas_-_Cochinilla_algodonosa_4.webp",
+                    "src": "/images/antropodos parque centenario/Cochinillas_-_Cochinilla_algodonosa_4.webp",
                     "sub_html": "Cochinilla algodonosa"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Cucarachas_-_Cucaracha_Roja_1.webp",
+                    "src": "/images/antropodos parque centenario/Cucarachas_-_Cucaracha_Roja_1.webp",
                     "sub_html": "Cucaracha Roja"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Cucarachas_-_Cucaracha_Roja_2.webp",
+                    "src": "/images/antropodos parque centenario/Cucarachas_-_Cucaracha_Roja_2.webp",
                     "sub_html": "Cucaracha Roja"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Escarabajos_-_Burrito_de_la_vid_1.webp",
+                    "src": "/images/antropodos parque centenario/Escarabajos_-_Burrito_de_la_vid_1.webp",
                     "sub_html": "Burrito de la vid"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Escarabajos_-_Burrito_de_la_vid_2.webp",
+                    "src": "/images/antropodos parque centenario/Escarabajos_-_Burrito_de_la_vid_2.webp",
                     "sub_html": "Burrito de la vid"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Escarabajos_-_Burrito_de_la_vid_3.webp",
+                    "src": "/images/antropodos parque centenario/Escarabajos_-_Burrito_de_la_vid_3.webp",
                     "sub_html": "Burrito de la vid"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Escarabajos_-_Escarabajo_soldado_-_Polemius_denticornis_1.webp",
+                    "src": "/images/antropodos parque centenario/Escarabajos_-_Escarabajo_soldado_-_Polemius_denticornis_1.webp",
                     "sub_html": "Escarabajo soldado - Polemius denticornis"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Escarabajos_-_Escarabajo_soldado_-_Polemius_denticornis_2.webp",
+                    "src": "/images/antropodos parque centenario/Escarabajos_-_Escarabajo_soldado_-_Polemius_denticornis_2.webp",
                     "sub_html": "Escarabajo soldado - Polemius denticornis"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Escarabajos_-_Vaquita_de_las_cucurbit\u00e1ceas_-_Diabrotica_speciosa__1.webp",
+                    "src": "/images/antropodos parque centenario/Escarabajos_-_Vaquita_de_las_cucurbit\u00e1ceas_-_Diabrotica_speciosa__1.webp",
                     "sub_html": "Vaquita de las cucurbit\u00e1ceas - Diabrotica speciosa"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Escarabajos_-_Vaquita_de_las_cucurbit\u00e1ceas_-_Diabrotica_speciosa__2.webp",
+                    "src": "/images/antropodos parque centenario/Escarabajos_-_Vaquita_de_las_cucurbit\u00e1ceas_-_Diabrotica_speciosa__2.webp",
                     "sub_html": "Vaquita de las cucurbit\u00e1ceas - Diabrotica speciosa"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Hormigas_-_Hormigas_4.webp",
+                    "src": "/images/antropodos parque centenario/Hormigas_-_Hormigas_4.webp",
                     "sub_html": "Hormigas"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Hormigas_-_Hormigas_5.webp",
+                    "src": "/images/antropodos parque centenario/Hormigas_-_Hormigas_5.webp",
                     "sub_html": "Hormigas"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Hormigas_-_Hormigas_Negra_1.webp",
+                    "src": "/images/antropodos parque centenario/Hormigas_-_Hormigas_Negra_1.webp",
                     "sub_html": "Hormigas Negra"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Hormigas_-_Hormigas_Negra_2.webp",
+                    "src": "/images/antropodos parque centenario/Hormigas_-_Hormigas_Negra_2.webp",
                     "sub_html": "Hormigas Negra"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Hormigas_-_Hormigas_Roja_6.webp",
+                    "src": "/images/antropodos parque centenario/Hormigas_-_Hormigas_Roja_6.webp",
                     "sub_html": "Hormigas Roja"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Hormigas_-_Hormigas_Roja_7.webp",
+                    "src": "/images/antropodos parque centenario/Hormigas_-_Hormigas_Roja_7.webp",
                     "sub_html": "Hormigas Roja"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Langostas_-_Langosta_Verde_de_Pastizal_-_Conocephalus_longipes_1.webp",
+                    "src": "/images/antropodos parque centenario/Langostas_-_Langosta_Verde_de_Pastizal_-_Conocephalus_longipes_1.webp",
                     "sub_html": "Langosta Verde de Pastizal - Conocephalus longipes"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Langostas_-_Langosta_Verde_de_Pastizal_-_Conocephalus_longipes_2.webp",
+                    "src": "/images/antropodos parque centenario/Langostas_-_Langosta_Verde_de_Pastizal_-_Conocephalus_longipes_2.webp",
                     "sub_html": "Langosta Verde de Pastizal - Conocephalus longipes"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Langostas_-_Langosta_Verde_de_Pastizal_-_Conocephalus_longipes_3.webp",
+                    "src": "/images/antropodos parque centenario/Langostas_-_Langosta_Verde_de_Pastizal_-_Conocephalus_longipes_3.webp",
                     "sub_html": "Langosta Verde de Pastizal - Conocephalus longipes"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Libelilulas_-_Alguacil_bonaerense_-_Rhionaeschna_bonariensis_1.webp",
+                    "src": "/images/antropodos parque centenario/Libelilulas_-_Alguacil_bonaerense_-_Rhionaeschna_bonariensis_1.webp",
                     "sub_html": "Alguacil bonaerense - Rhionaeschna bonariensis"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Libelilulas_-_Alguacil_bonaerense_-_Rhionaeschna_bonariensis_2.webp",
+                    "src": "/images/antropodos parque centenario/Libelilulas_-_Alguacil_bonaerense_-_Rhionaeschna_bonariensis_2.webp",
                     "sub_html": "Alguacil bonaerense - Rhionaeschna bonariensis"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Libelilulas_-_Alguacil_bonaerense_-_Rhionaeschna_bonariensis_3.webp",
+                    "src": "/images/antropodos parque centenario/Libelilulas_-_Alguacil_bonaerense_-_Rhionaeschna_bonariensis_3.webp",
                     "sub_html": "Alguacil bonaerense - Rhionaeschna bonariensis"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Libelilulas_-_Caballito_del_diablo_-_Ischnura_fluviatilis_1.webp",
+                    "src": "/images/antropodos parque centenario/Libelilulas_-_Caballito_del_diablo_-_Ischnura_fluviatilis_1.webp",
                     "sub_html": "Caballito del diablo - Ischnura fluviatilis"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Libelilulas_-_Caballito_del_diablo_-_Ischnura_fluviatilis_2.webp",
+                    "src": "/images/antropodos parque centenario/Libelilulas_-_Caballito_del_diablo_-_Ischnura_fluviatilis_2.webp",
                     "sub_html": "Caballito del diablo - Ischnura fluviatilis"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Libelilulas_-_Lib\u00e9lula_-_Erythrodiplax_nigricans_1.webp",
+                    "src": "/images/antropodos parque centenario/Libelilulas_-_Lib\u00e9lula_-_Erythrodiplax_nigricans_1.webp",
                     "sub_html": "Lib\u00e9lula - Erythrodiplax nigricans"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Libelilulas_-_Lib\u00e9lula_-_Erythrodiplax_nigricans_2.webp",
+                    "src": "/images/antropodos parque centenario/Libelilulas_-_Lib\u00e9lula_-_Erythrodiplax_nigricans_2.webp",
                     "sub_html": "Lib\u00e9lula - Erythrodiplax nigricans"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Libelilulas_-_Lib\u00e9lula_-_Erythrodiplax_nigricans_3.webp",
+                    "src": "/images/antropodos parque centenario/Libelilulas_-_Lib\u00e9lula_-_Erythrodiplax_nigricans_3.webp",
                     "sub_html": "Lib\u00e9lula - Erythrodiplax nigricans"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Bataraza_1.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Bataraza_1.webp",
                     "sub_html": "Bataraza"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Bataraza_2.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Bataraza_2.webp",
                     "sub_html": "Bataraza"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Bataraza_3.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Bataraza_3.webp",
                     "sub_html": "Bataraza"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Bataraza_4.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Bataraza_4.webp",
                     "sub_html": "Bataraza"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Borde_dorado_1.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Borde_dorado_1.webp",
                     "sub_html": "Borde dorado"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Borde_dorado_2.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Borde_dorado_2.webp",
                     "sub_html": "Borde dorado"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Espejito_3.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Espejito_3.webp",
                     "sub_html": "Espejito"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Espejito_4.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Espejito_4.webp",
                     "sub_html": "Espejito"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Espejito_6.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Espejito_6.webp",
                     "sub_html": "Espejito"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Espejito_7.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Espejito_7.webp",
                     "sub_html": "Espejito"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Espejito_8.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Espejito_8.webp",
                     "sub_html": "Espejito"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Frotadora_Com\u00fan_1.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Frotadora_Com\u00fan_1.webp",
                     "sub_html": "Frotadora Com\u00fan"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Frotadora_Com\u00fan_2.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Frotadora_Com\u00fan_2.webp",
                     "sub_html": "Frotadora Com\u00fan"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Limoncito_1.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Limoncito_1.webp",
                     "sub_html": "Limoncito"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Monarca_1.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Monarca_1.webp",
                     "sub_html": "Monarca"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Monarca_3.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Monarca_3.webp",
                     "sub_html": "Monarca"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Monarca_4.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Monarca_4.webp",
                     "sub_html": "Monarca"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Monarca_5.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Monarca_5.webp",
                     "sub_html": "Monarca"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Monarca_7.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Monarca_7.webp",
                     "sub_html": "Monarca"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Monarca_8.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Monarca_8.webp",
                     "sub_html": "Monarca"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Saltarina_de_la_Guayaba_1.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Saltarina_de_la_Guayaba_1.webp",
                     "sub_html": "Saltarina de la Guayaba"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Saltarina_Mim\u00e9tica_1.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Saltarina_Mim\u00e9tica_1.webp",
                     "sub_html": "Saltarina Mim\u00e9tica"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Mariposas_-_Saltarina_Mim\u00e9tica_2.webp",
+                    "src": "/images/antropodos parque centenario/Mariposas_-_Saltarina_Mim\u00e9tica_2.webp",
                     "sub_html": "Saltarina Mim\u00e9tica"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_DSCN9201.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_DSCN9201.webp",
                     "sub_html": "DSCN9201"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_DSCN9208.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_DSCN9208.webp",
                     "sub_html": "DSCN9208"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_DSCN9214.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_DSCN9214.webp",
                     "sub_html": "DSCN9214"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_DSCN9892.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_DSCN9892.webp",
                     "sub_html": "DSCN9892"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_DSCN9899.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_DSCN9899.webp",
                     "sub_html": "DSCN9899"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Moscas_de_Felpa_0.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Moscas_de_Felpa_0.webp",
                     "sub_html": "Moscas de Felpa"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Moscas_de_Felpa_1.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Moscas_de_Felpa_1.webp",
                     "sub_html": "Moscas de Felpa"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Moscas_de_las_flores.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Moscas_de_las_flores.webp",
                     "sub_html": "Moscas de las flores"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Moscas_zancudas__-_Dolichopodidae_1.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Moscas_zancudas__-_Dolichopodidae_1.webp",
                     "sub_html": "Moscas zancudas  - Dolichopodidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Moscas_zancudas__-_Dolichopodidae_2.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Moscas_zancudas__-_Dolichopodidae_2.webp",
                     "sub_html": "Moscas zancudas  - Dolichopodidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Mosca_de_las_flores_-_Dioprosopa_clavata_1.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Mosca_de_las_flores_-_Dioprosopa_clavata_1.webp",
                     "sub_html": "Mosca de las flores - Dioprosopa clavata"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Mosca_de_las_flores_-_Palpada_sp._1.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Mosca_de_las_flores_-_Palpada_sp._1.webp",
                     "sub_html": "Mosca de las flores - Palpada sp."
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Mosca_soldado_-_Hedriodiscus_sp._1.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Mosca_soldado_-_Hedriodiscus_sp._1.webp",
                     "sub_html": "Mosca soldado - Hedriodiscus sp."
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Mosca_soldado_-_Hedriodiscus_sp._2.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Mosca_soldado_-_Hedriodiscus_sp._2.webp",
                     "sub_html": "Mosca soldado - Hedriodiscus sp."
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Mosca_Soldado_Negra_-_Stratiomyidae_1.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Mosca_Soldado_Negra_-_Stratiomyidae_1.webp",
                     "sub_html": "Mosca Soldado Negra - Stratiomyidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Mosca_Soldado_Negra_-_Stratiomyidae_2.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Mosca_Soldado_Negra_-_Stratiomyidae_2.webp",
                     "sub_html": "Mosca Soldado Negra - Stratiomyidae"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Mosca_Tigre_-_Eristalinus_taeniops__1.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Mosca_Tigre_-_Eristalinus_taeniops__1.webp",
                     "sub_html": "Mosca Tigre - Eristalinus taeniops"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Mosca_Tigre_-_Eristalinus_taeniops__2.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Mosca_Tigre_-_Eristalinus_taeniops__2.webp",
                     "sub_html": "Mosca Tigre - Eristalinus taeniops"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Mosca_Verde_Met\u00e1lica_1.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Mosca_Verde_Met\u00e1lica_1.webp",
                     "sub_html": "Mosca Verde Met\u00e1lica"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Mosca_Verde_Met\u00e1lica_2.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Mosca_Verde_Met\u00e1lica_2.webp",
                     "sub_html": "Mosca Verde Met\u00e1lica"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Oxysarcodexia_2.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Oxysarcodexia_2.webp",
                     "sub_html": "Oxysarcodexia"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Oxysarcodexia_3.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Oxysarcodexia_3.webp",
                     "sub_html": "Oxysarcodexia"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Oxysarcodexia_4.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Oxysarcodexia_4.webp",
                     "sub_html": "Oxysarcodexia"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Protodictya_1.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Protodictya_1.webp",
                     "sub_html": "Protodictya"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Moscas_-_Protodictya_2.webp",
+                    "src": "/images/antropodos parque centenario/Moscas_-_Protodictya_2.webp",
                     "sub_html": "Protodictya"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Orugas_-_Oruga_1.webp",
+                    "src": "/images/antropodos parque centenario/Orugas_-_Oruga_1.webp",
                     "sub_html": "Oruga"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Orugas_-_Perezosa_com\u00fan_-_Actinote_pellenea_pellenea_1.webp",
+                    "src": "/images/antropodos parque centenario/Orugas_-_Perezosa_com\u00fan_-_Actinote_pellenea_pellenea_1.webp",
                     "sub_html": "Perezosa com\u00fan - Actinote pellenea pellenea"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Orugas_-_Perezosa_com\u00fan_-_Actinote_pellenea_pellenea_2.webp",
+                    "src": "/images/antropodos parque centenario/Orugas_-_Perezosa_com\u00fan_-_Actinote_pellenea_pellenea_2.webp",
                     "sub_html": "Perezosa com\u00fan - Actinote pellenea pellenea"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Otros_-_Cucaracha_Acuatica_-_Belostoma_elegans__1.webp",
+                    "src": "/images/antropodos parque centenario/Otros_-_Cucaracha_Acuatica_-_Belostoma_elegans__1.webp",
                     "sub_html": "Cucaracha Acuatica - Belostoma elegans"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Otros_-_Ps\u00edlido_de_la_Tipa_1.webp",
+                    "src": "/images/antropodos parque centenario/Otros_-_Ps\u00edlido_de_la_Tipa_1.webp",
                     "sub_html": "Ps\u00edlido de la Tipa"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Otros_-_Tipuloidea_2.webp",
+                    "src": "/images/antropodos parque centenario/Otros_-_Tipuloidea_2.webp",
                     "sub_html": "Tipuloidea"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Otros_-_Tipuloidea_3.webp",
+                    "src": "/images/antropodos parque centenario/Otros_-_Tipuloidea_3.webp",
                     "sub_html": "Tipuloidea"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Otros_-_Tipuloidea_4.webp",
+                    "src": "/images/antropodos parque centenario/Otros_-_Tipuloidea_4.webp",
                     "sub_html": "Tipuloidea"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Otros_-_Tipuloidea_5.webp",
+                    "src": "/images/antropodos parque centenario/Otros_-_Tipuloidea_5.webp",
                     "sub_html": "Tipuloidea"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Otros_-_Tipuloidea_6.webp",
+                    "src": "/images/antropodos parque centenario/Otros_-_Tipuloidea_6.webp",
                     "sub_html": "Tipuloidea"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Polillas_-_Polilla_1.webp",
+                    "src": "/images/antropodos parque centenario/Polillas_-_Polilla_1.webp",
                     "sub_html": "Polilla"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Polillas_-_Polilla_2.webp",
+                    "src": "/images/antropodos parque centenario/Polillas_-_Polilla_2.webp",
                     "sub_html": "Polilla"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Polillas_-_Polilla_3.webp",
+                    "src": "/images/antropodos parque centenario/Polillas_-_Polilla_3.webp",
                     "sub_html": "Polilla"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Polillas_-_Polilla_cigarrito_arlequ\u00edn_-_Atteva_pustulella__1.webp",
+                    "src": "/images/antropodos parque centenario/Polillas_-_Polilla_cigarrito_arlequ\u00edn_-_Atteva_pustulella__1.webp",
                     "sub_html": "Polilla cigarrito arlequ\u00edn - Atteva pustulella"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Polillas_-_Polilla_cigarrito_arlequ\u00edn_-_Atteva_pustulella__3.webp",
+                    "src": "/images/antropodos parque centenario/Polillas_-_Polilla_cigarrito_arlequ\u00edn_-_Atteva_pustulella__3.webp",
                     "sub_html": "Polilla cigarrito arlequ\u00edn - Atteva pustulella"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Polillas_-_Polilla_tigre_-_Ctenucha_rubriceps_1.webp",
+                    "src": "/images/antropodos parque centenario/Polillas_-_Polilla_tigre_-_Ctenucha_rubriceps_1.webp",
                     "sub_html": "Polilla tigre - Ctenucha rubriceps"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Polillas_-_Polilla_tigre_-_Ctenucha_rubriceps_2.webp",
+                    "src": "/images/antropodos parque centenario/Polillas_-_Polilla_tigre_-_Ctenucha_rubriceps_2.webp",
                     "sub_html": "Polilla tigre - Ctenucha rubriceps"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Polillas_-_Polilla_tigre_-_Eurata_hermione_1.webp",
+                    "src": "/images/antropodos parque centenario/Polillas_-_Polilla_tigre_-_Eurata_hermione_1.webp",
                     "sub_html": "Polilla tigre - Eurata hermione"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_2.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_2.webp",
                     "sub_html": "Catarina"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_3.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_3.webp",
                     "sub_html": "Catarina"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_Asi\u00e1tica_-_Harmonia_axyrides_1.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_Asi\u00e1tica_-_Harmonia_axyrides_1.webp",
                     "sub_html": "Catarina Asi\u00e1tica - Harmonia axyrides"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_Asi\u00e1tica_-_Harmonia_axyrides_2.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_Asi\u00e1tica_-_Harmonia_axyrides_2.webp",
                     "sub_html": "Catarina Asi\u00e1tica - Harmonia axyrides"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_Asi\u00e1tica_-_Harmonia_axyrides_3.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_Asi\u00e1tica_-_Harmonia_axyrides_3.webp",
                     "sub_html": "Catarina Asi\u00e1tica - Harmonia axyrides"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_D\u00e1lmata_1.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_D\u00e1lmata_1.webp",
                     "sub_html": "Catarina D\u00e1lmata"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_D\u00e1lmata_2.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_D\u00e1lmata_2.webp",
                     "sub_html": "Catarina D\u00e1lmata"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_Sin_Manchas_-_Cycloneda_sanguinea_1.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Catarina_Sin_Manchas_-_Cycloneda_sanguinea_1.webp",
                     "sub_html": "Catarina Sin Manchas - Cycloneda sanguinea"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_-_Coleomegilla_quadrifasciata_1.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_-_Coleomegilla_quadrifasciata_1.webp",
                     "sub_html": "Vaquita - Coleomegilla quadrifasciata"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_-_Coleomegilla_quadrifasciata_2.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_-_Coleomegilla_quadrifasciata_2.webp",
                     "sub_html": "Vaquita - Coleomegilla quadrifasciata"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_-_Coleomegilla_quadrifasciata_3.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_-_Coleomegilla_quadrifasciata_3.webp",
                     "sub_html": "Vaquita - Coleomegilla quadrifasciata"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_-_Coleomegilla_quadrifasciata_4.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_-_Coleomegilla_quadrifasciata_4.webp",
                     "sub_html": "Vaquita - Coleomegilla quadrifasciata"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_-_Coleomegilla_quadrifasciata_5.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_-_Coleomegilla_quadrifasciata_5.webp",
                     "sub_html": "Vaquita - Coleomegilla quadrifasciata"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_-_Eriopis_connexa_1.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_-_Eriopis_connexa_1.webp",
                     "sub_html": "Vaquita - Eriopis connexa"
                 },
                 {
-                    "src": "bin/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_de_las_hojas_-_Henosepilachna_vigintioctopunctata_1.webp",
+                    "src": "/images/antropodos parque centenario/Vaquitas_de_san_antonio_-_Vaquita_de_las_hojas_-_Henosepilachna_vigintioctopunctata_1.webp",
                     "sub_html": "Vaquita de las hojas - Henosepilachna vigintioctopunctata"
                 }
             ]
