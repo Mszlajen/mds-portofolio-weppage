@@ -39,6 +39,7 @@ if __name__ == '__main__':
     render_file(env, 'contact.html', path.join(output_folder, 'contact.html'), contact_active=True, recent=recent_galleries)
     render_file(env, 'newsletter.html', path.join(output_folder, 'newsletter.html'), newsletter_active=True, recent=recent_galleries)
 
+    render_file(env, 'rss.xml', path.join(output_folder, 'rss.xml'), galleries=flatten_galleries)
     
     render_file(env, 'index.html', path.join(output_folder, 'index.html'), galleries=flatten_galleries, recent=recent_galleries, home_active = True)
 

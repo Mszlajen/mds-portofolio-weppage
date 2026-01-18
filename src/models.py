@@ -1,9 +1,12 @@
 from pydantic import BaseModel, Field
-from os import listdir, path
+from os import listdir
+import datetime
+from email import utils
 from functools import cached_property
 
 class Gallery(BaseModel):
     title: str
+    publish_date: str
     file: str | None = None
     group: str | None = None
     images_folder: str = ""
@@ -15,6 +18,12 @@ class Gallery(BaseModel):
     @cached_property
     def link(self):
         return f"/{self.group}/{self.file}"
+
+    @cached_property
+    def pub_date(self):
+        nowdt = datetime.datetime.strptime(self.publish_date, '%Y-%m-%d')
+        return utils.format_datetime(nowdt)
+
 
 class Image(BaseModel):
     src: str

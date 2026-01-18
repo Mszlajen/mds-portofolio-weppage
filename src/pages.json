@@ -2,6 +2,7 @@
     "202500": [
         {
             "file": "20232024.html",
+            "publish_date": "2025-08-30",
             "title": "2023 - 2024",
             "images_path": "/images/2023-2025",
             "images_folder": "bin/images/2023-2025"
@@ -11,6 +12,7 @@
     "202511": [
         {
             "file": "jardinbotanicocaba.html",
+            "publish_date": "2025-11-30",
             "title": "Jardin Botanico CABA",
             "images_path": "/images/jardin botanico",
             "images_folder": "bin/images/jardin botanico"
@@ -18,12 +20,14 @@
         },
         {
             "file": "lasflores.html",
+            "publish_date": "2025-11-30",
             "title": "Las Flores",
             "images_path": "/images/las flores",
             "images_folder": "bin/images/las flores"
         },
         {
             "file": "miramaransenuza.html",
+            "publish_date": "2025-11-30",
             "title": "Miramar de Ansenuza",
             "images_path": "/images/miramar de ansenuza",
             "images_folder": "bin/images/miramar de ansenuza",
@@ -31,6 +35,7 @@
         },
         {
             "file": "playasdoradas.html",
+            "publish_date": "2025-11-30",
             "title": "Playas Doradas",
             "images_path": "/images/playas doradas",
             "images_folder": "bin/images/playas doradas"
@@ -39,6 +44,7 @@
     "202601": [
         {
             "file": "antropodos_parque_centenario.html",
+            "publish_date": "2026-01-17",
             "title": "Antropodos Parque Centenario",
             "thumbnail": "/images/antropodos parque centenario/Mariposas_-_Monarca_7.webp",
             "images": [
