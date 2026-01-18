@@ -1,0 +1,48 @@
+{% extends "main.html" %}
+
+{% block main_content %}
+<div class="site-section"  data-aos="fade">
+    <div class="container">
+        <div class="row justify-content-center">
+
+            <div class="col-md-7">
+                <div class="row mb-5">
+                <div class="col-12 ">
+                    <h2 class="site-section-heading text-center">Newsletter</h2>
+                </div>
+                </div>
+            </div>
+
+        </div>
+        
+        <div class="row">
+            <div class="col-lg-12 mb-5">
+                <form
+                action="https://buttondown.com/api/emails/embed-subscribe/mszlajen"
+                method="post"
+                class="embeddable-buttondown-form"
+              >
+                <div class="row form-group">
+                  <div class="col-md-3"></div>
+                  <div class="col-md-6 mb-3 mb-md-0">
+                      <label for="bd-email">Enter your email</label>
+                      <input type="email" name="email" id="bd-email" class="form-control" />
+                  </div>
+                </div>
+                <div class="row form-group">
+                  <div class="col-md-3"></div>
+                  <div class="col-md-6 mb-3 mb-md-0">
+                    <input type="submit" value="Subscribe" id="bd-submit" class="btn btn-primary py-2 px-4 text-white" />
+                  </div>
+                </div>
+                  <p style="text-align: center;">
+                    <a href="https://buttondown.com/refer/mszlajen" target="_blank">
+                      Powered by Buttondown.
+                    </a>
+                  </p>
+              </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock main_content %}
