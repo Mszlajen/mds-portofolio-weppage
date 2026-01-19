@@ -34,7 +34,7 @@ if __name__ == '__main__':
                            reverse=True)
     
     flatten_galleries = reduce(lambda acc, v: acc.extend(v[1]) or acc, all_galleries, [])
-    recent_galleries = list(reversed(flatten_galleries[:5]))
+    recent_galleries = flatten_galleries[:5]
 
     render_file(env, 'about.html', path.join(output_folder, 'about.html'), about_active=True, recent=recent_galleries)
     render_file(env, 'contact.html', path.join(output_folder, 'contact.html'), contact_active=True, recent=recent_galleries)
