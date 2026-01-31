@@ -7,13 +7,13 @@
       <language>en-us</language>
       <lastBuildDate>{{build_date}}</lastBuildDate>
       <atom:link href="https://www.rssboard.org/files/sample-rss-2.xml" rel="self" type="application/rss+xml" />
+      {% for gallery in galleries %}
       <item>
-        {% for gallery in galleries %}
         <title>{{gallery.title}}</title>
         <link>https://matias-sz.work{{gallery.link}}</link>
         <pubDate>{{gallery.pub_date}}</pubDate>
         <guid>https://matias-sz.work{{gallery.link}}</guid>
-        {% endfor %}
       </item>
+      {% endfor %}
    </channel>
 </rss>

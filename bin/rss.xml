@@ -5,35 +5,43 @@
       <link>https://matias-sz.work</link>
       <description>A RSS news feed containing the published works of Matias Szlajen</description>
       <language>en-us</language>
-      <lastBuildDate>Sat, 31 Jan 2026 11:07:42 -0000</lastBuildDate>
+      <lastBuildDate>Sat, 31 Jan 2026 11:21:31 -0000</lastBuildDate>
       <atom:link href="https://www.rssboard.org/files/sample-rss-2.xml" rel="self" type="application/rss+xml" />
+      
       <item>
-        
         <title>Artropodos Parque Centenario</title>
         <link>https://matias-sz.work/202601/artropodos_parque_centenario.html</link>
         <pubDate>Sat, 17 Jan 2026 00:00:00 -0000</pubDate>
         <guid>https://matias-sz.work/202601/artropodos_parque_centenario.html</guid>
-        
+      </item>
+      
+      <item>
         <title>Las Flores</title>
         <link>https://matias-sz.work/202511/lasflores.html</link>
         <pubDate>Sun, 30 Nov 2025 00:00:00 -0000</pubDate>
         <guid>https://matias-sz.work/202511/lasflores.html</guid>
-        
+      </item>
+      
+      <item>
         <title>Miramar de Ansenuza</title>
         <link>https://matias-sz.work/202511/miramaransenuza.html</link>
         <pubDate>Sun, 30 Nov 2025 00:00:00 -0000</pubDate>
         <guid>https://matias-sz.work/202511/miramaransenuza.html</guid>
-        
+      </item>
+      
+      <item>
         <title>Playas Doradas</title>
         <link>https://matias-sz.work/202511/playasdoradas.html</link>
         <pubDate>Sun, 30 Nov 2025 00:00:00 -0000</pubDate>
         <guid>https://matias-sz.work/202511/playasdoradas.html</guid>
-        
+      </item>
+      
+      <item>
         <title>2023 - 2024</title>
         <link>https://matias-sz.work/202500/20232024.html</link>
         <pubDate>Sat, 30 Aug 2025 00:00:00 -0000</pubDate>
         <guid>https://matias-sz.work/202500/20232024.html</guid>
-        
       </item>
+      
    </channel>
 </rss>
