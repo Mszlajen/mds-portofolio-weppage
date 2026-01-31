@@ -14,7 +14,8 @@
             "publish_date": "2025-11-30",
             "title": "Jardin Botanico CABA",
             "images_path": "/images/jardin botanico",
-            "images_folder": "bin/images/jardin botanico"
+            "images_folder": "bin/images/jardin botanico",
+            "hidden": true
         },
         {
             "file": "lasflores.html",

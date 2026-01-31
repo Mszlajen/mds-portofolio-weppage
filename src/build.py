@@ -27,9 +27,9 @@ if __name__ == '__main__':
         all_galleries = load(f)
     
     all_galleries = sorted(((group, 
-                             [Gallery.model_validate(gallery | {'group': group}) for gallery in galleries])
+                             [Gallery.model_validate(gallery | {'group': group}) for gallery in galleries if not gallery.get('hidden')])
                             for group, galleries 
-                            in all_galleries.items()), 
+                            in all_galleries.items()),
                            key=lambda t: t[0], 
                            reverse=True)
     

@@ -5,7 +5,7 @@
       <link>https://matias-sz.work</link>
       <description>A RSS news feed containing the published works of Matias Szlajen</description>
       <language>en-us</language>
-      <lastBuildDate>Fri, 30 Jan 2026 11:17:30 -0000</lastBuildDate>
+      <lastBuildDate>Sat, 31 Jan 2026 11:07:42 -0000</lastBuildDate>
       <atom:link href="https://www.rssboard.org/files/sample-rss-2.xml" rel="self" type="application/rss+xml" />
       <item>
         
@@ -13,11 +13,6 @@
         <link>https://matias-sz.work/202601/artropodos_parque_centenario.html</link>
         <pubDate>Sat, 17 Jan 2026 00:00:00 -0000</pubDate>
         <guid>https://matias-sz.work/202601/artropodos_parque_centenario.html</guid>
-        
-        <title>Jardin Botanico CABA</title>
-        <link>https://matias-sz.work/202511/jardinbotanicocaba.html</link>
-        <pubDate>Sun, 30 Nov 2025 00:00:00 -0000</pubDate>
-        <guid>https://matias-sz.work/202511/jardinbotanicocaba.html</guid>
         
         <title>Las Flores</title>
         <link>https://matias-sz.work/202511/lasflores.html</link>
