@@ -5,8 +5,15 @@
       <link>https://matias-sz.work</link>
       <description>A RSS news feed containing the published works of Matias Szlajen</description>
       <language>en-us</language>
-      <lastBuildDate>Sat, 31 Jan 2026 11:21:31 -0000</lastBuildDate>
+      <lastBuildDate>Thu, 02 Apr 2026 16:58:53 -0000</lastBuildDate>
       <atom:link href="https://www.rssboard.org/files/sample-rss-2.xml" rel="self" type="application/rss+xml" />
+      
+      <item>
+        <title>Puan</title>
+        <link>https://matias-sz.work/202603/puan.html</link>
+        <pubDate>Thu, 02 Apr 2026 00:00:00 -0000</pubDate>
+        <guid>https://matias-sz.work/202603/puan.html</guid>
+      </item>
       
       <item>
         <title>Artropodos Parque Centenario</title>
