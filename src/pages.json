@@ -733,5 +733,15 @@
                 }
             ]
         }
+    ],
+    "202603": [
+        {
+            "file": "puan.html",
+            "publish_date": "2026-04-02",
+            "title": "Puan",
+            "images_path": "/images/puan",
+            "images_folder": "bin/images/puan",
+            "thumbnail": "images/puan/DSCN2164.webp"
+        }       
     ]
 }
