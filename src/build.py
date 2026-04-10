@@ -19,7 +19,7 @@ def render_file(env: Environment, template: str, output: str, **kwargs):
 def bool_input(prompt: str, default: Literal['y', 'n']) -> bool:
     while True:
         answer = input(f"{prompt} ({default}): ").lower() or default
-        if answer == '':
+        if answer == 'y':
             return True
         elif answer == 'n':
             return False
