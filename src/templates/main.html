@@ -60,10 +60,7 @@
                 <li class="{% if home_active %}active{% endif %}"><a href="/index.html">Home</a></li>
                 <li class="has-children {% if recent_active %}active{% endif %}">
                   <a href="#">Recent</a>
-                  <ul class="dropdown">
-                    {% for gallery in recent %}
-                    <li><a href="{{gallery.link}}">{{gallery.title}}</a></li>
-                    {% endfor %}
+                  <ul id="recent-list" class="dropdown">
                   </ul>
                 </li>
                 <li class="{% if about_active %}active{% endif %}"><a href="/about.html">About</a></li>
@@ -153,5 +150,7 @@
     });
   </script>
   {% endif %}
+
+  <script src="/js/custom.js"></script>
 </body>
 </html>
