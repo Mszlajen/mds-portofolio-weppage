@@ -9,9 +9,7 @@ class Gallery(BaseModel):
     publish_date: str
     file: str | None = None
     group: str | None = None
-    images_folder: str = ""
-    images_path: str = ""
-    images: 'list[Image]' = Field(default_factory=lambda data: [Image(src = f"{data['images_path']}/{filename}") for filename in sorted(listdir(data["images_folder"]))])
+    images: 'list[Image]'
     thumbnail: str = Field(default_factory=lambda data: data['images'][0].src)
     alt_text: str = ""
     hide: bool = False

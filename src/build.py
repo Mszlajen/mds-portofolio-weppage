@@ -1,5 +1,6 @@
+from typing import Literal
 from sys import argv
-from os import path, makedirs
+from os import path, makedirs, walk
 from json import load
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from models import Gallery
@@ -15,21 +16,29 @@ def render_file(env: Environment, template: str, output: str, **kwargs):
     with open(output, "w") as f:
         f.write(render)
 
+def bool_input(prompt: str, default: Literal['y', 'n']) -> bool:
+    while True:
+        answer = input(f"{prompt} ({default}): ").lower() or default
+        if answer == '':
+            return True
+        elif answer == 'n':
+            return False
+
+def json_load(file_path: str) -> dict:
+    with open(file_path) as f:
+        return load(f)
 
 if __name__ == '__main__':
-    input_file = argv.get(1, "pages.json")
-    output_folder = argv.get(2, "bin")
-    templates_folder = argv.get(3, "templates")
+    input_file = input('Configuration folder (src/pages): ') or 'src/pages'
+    output_folder = input('Output folder (bin): ') or 'bin'
+    templates_folder = input('Template folder (src/templates): ') or 'src/templates'
+    update_rss = bool_input('Update RSS Feed', 'y')
 
     env = Environment(loader=FileSystemLoader(templates_folder), autoescape=select_autoescape())
-
-    with open(input_file) as f:
-        all_galleries = load(f)
     
-    all_galleries = sorted(((group, 
-                             [Gallery.model_validate(gallery | {'group': group}) for gallery in galleries if not gallery.get('hidden')])
-                            for group, galleries 
-                            in all_galleries.items()),
+    all_galleries = sorted(((folder.rsplit('/', 1)[-1],
+                             [Gallery.model_validate(json_load(path.join(folder, file)) | {'group': folder.rsplit('/', 1)[-1]})])
+                            for folder, _, files in list(walk('src/pages')) for file in files),
                            key=lambda t: t[0], 
                            reverse=True)
     
@@ -40,7 +49,8 @@ if __name__ == '__main__':
     render_file(env, 'contact.html', path.join(output_folder, 'contact.html'), contact_active=True, recent=recent_galleries)
     render_file(env, 'newsletter.html', path.join(output_folder, 'newsletter.html'), newsletter_active=True, recent=recent_galleries)
 
-    render_file(env, 'rss.xml', path.join(output_folder, 'rss.xml'), build_date=format_datetime(datetime.now()), galleries=flatten_galleries)
+    if update_rss:
+        render_file(env, 'rss.xml', path.join(output_folder, 'rss.xml'), build_date=format_datetime(datetime.now()), galleries=flatten_galleries)
     
     render_file(env, 'index.html', path.join(output_folder, 'index.html'), galleries=flatten_galleries, recent=recent_galleries, home_active = True)
 
