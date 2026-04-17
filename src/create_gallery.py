@@ -21,5 +21,5 @@ if __name__ == '__main__':
 
     makedirs(output_folder, exist_ok=True)
     group_max = int(max(listdir(output_folder) + ['0_']).split('_', 1)[0])
-    with open(path.join(path.join(output_folder, f'{group_max + 1}_{escaped_name}.json')), 'w') as f:
+    with open(path.join(path.join(output_folder, f'{group_max + 1}_{escaped_name}.json')), 'w', encoding='utf-8') as f:
         dump(gallery.model_dump(), f, indent = 4)

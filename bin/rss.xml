@@ -5,8 +5,15 @@
       <link>https://matias-sz.work</link>
       <description>A RSS news feed containing the published works of Matias Szlajen</description>
       <language>en-us</language>
-      <lastBuildDate>Thu, 02 Apr 2026 17:02:46 -0000</lastBuildDate>
+      <lastBuildDate>Thu, 16 Apr 2026 23:25:49 -0000</lastBuildDate>
       <atom:link href="https://www.rssboard.org/files/sample-rss-2.xml" rel="self" type="application/rss+xml" />
+      
+      <item>
+        <title>El Palmar</title>
+        <link>https://matias-sz.work/202604/el_palmar.html</link>
+        <pubDate>Thu, 16 Apr 2026 00:00:00 -0000</pubDate>
+        <guid>https://matias-sz.work/202604/el_palmar.html</guid>
+      </item>
       
       <item>
         <title>Puan</title>
