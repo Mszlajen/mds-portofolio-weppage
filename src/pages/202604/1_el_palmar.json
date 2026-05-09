@@ -2,754 +2,755 @@
     "title": "El Palmar",
     "publish_date": "2026-04-16",
     "file": "el_palmar.html",
+    "image_url": "",
     "group": null,
     "images": [
         {
-            "src": "/images/el palmar/ananbe negro_-_DSCN3123.webp",
+            "path": "/images/el palmar/ananbe negro_-_DSCN3123.webp",
             "thumbnail": "/images/el palmar/ananbe negro_-_DSCN3123.webp",
             "thumbnail_alt_text": "",
             "sub_html": "ananbe negro"
         },
         {
-            "src": "/images/el palmar/ananbe negro_-_DSCN3124.webp",
+            "path": "/images/el palmar/ananbe negro_-_DSCN3124.webp",
             "thumbnail": "/images/el palmar/ananbe negro_-_DSCN3124.webp",
             "thumbnail_alt_text": "",
             "sub_html": "ananbe negro"
         },
         {
-            "src": "/images/el palmar/araña tigre_-_DSCN2654.webp",
+            "path": "/images/el palmar/araña tigre_-_DSCN2654.webp",
             "thumbnail": "/images/el palmar/araña tigre_-_DSCN2654.webp",
             "thumbnail_alt_text": "",
             "sub_html": "araña tigre"
         },
         {
-            "src": "/images/el palmar/araña tigre_-_DSCN3163.webp",
+            "path": "/images/el palmar/araña tigre_-_DSCN3163.webp",
             "thumbnail": "/images/el palmar/araña tigre_-_DSCN3163.webp",
             "thumbnail_alt_text": "",
             "sub_html": "araña tigre"
         },
         {
-            "src": "/images/el palmar/araña tigre_-_DSCN3164.webp",
+            "path": "/images/el palmar/araña tigre_-_DSCN3164.webp",
             "thumbnail": "/images/el palmar/araña tigre_-_DSCN3164.webp",
             "thumbnail_alt_text": "",
             "sub_html": "araña tigre"
         },
         {
-            "src": "/images/el palmar/araña_-_DSCN1451.webp",
+            "path": "/images/el palmar/araña_-_DSCN1451.webp",
             "thumbnail": "/images/el palmar/araña_-_DSCN1451.webp",
             "thumbnail_alt_text": "",
             "sub_html": "araña"
         },
         {
-            "src": "/images/el palmar/avispa_-_DSCN1470.webp",
+            "path": "/images/el palmar/avispa_-_DSCN1470.webp",
             "thumbnail": "/images/el palmar/avispa_-_DSCN1470.webp",
             "thumbnail_alt_text": "",
             "sub_html": "avispa"
         },
         {
-            "src": "/images/el palmar/boyerito o boyero negro_-_DSCN3137.webp",
+            "path": "/images/el palmar/boyerito o boyero negro_-_DSCN3137.webp",
             "thumbnail": "/images/el palmar/boyerito o boyero negro_-_DSCN3137.webp",
             "thumbnail_alt_text": "",
             "sub_html": "boyerito o boyero negro"
         },
         {
-            "src": "/images/el palmar/cabecitanegra_-_DSCN2493.webp",
+            "path": "/images/el palmar/cabecitanegra_-_DSCN2493.webp",
             "thumbnail": "/images/el palmar/cabecitanegra_-_DSCN2493.webp",
             "thumbnail_alt_text": "",
             "sub_html": "cabecitanegra"
         },
         {
-            "src": "/images/el palmar/calandria_-_DSCN3335.webp",
+            "path": "/images/el palmar/calandria_-_DSCN3335.webp",
             "thumbnail": "/images/el palmar/calandria_-_DSCN3335.webp",
             "thumbnail_alt_text": "",
             "sub_html": "calandria"
         },
         {
-            "src": "/images/el palmar/carancho_-_DSCN1295.webp",
+            "path": "/images/el palmar/carancho_-_DSCN1295.webp",
             "thumbnail": "/images/el palmar/carancho_-_DSCN1295.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carancho"
         },
         {
-            "src": "/images/el palmar/carancho_-_DSCN2488.webp",
+            "path": "/images/el palmar/carancho_-_DSCN2488.webp",
             "thumbnail": "/images/el palmar/carancho_-_DSCN2488.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carancho"
         },
         {
-            "src": "/images/el palmar/carpinchos_-_DSCN1183.webp",
+            "path": "/images/el palmar/carpinchos_-_DSCN1183.webp",
             "thumbnail": "/images/el palmar/carpinchos_-_DSCN1183.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpinchos"
         },
         {
-            "src": "/images/el palmar/carpinchos_-_DSCN1184.webp",
+            "path": "/images/el palmar/carpinchos_-_DSCN1184.webp",
             "thumbnail": "/images/el palmar/carpinchos_-_DSCN1184.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpinchos"
         },
         {
-            "src": "/images/el palmar/carpinchos_-_DSCN1191.webp",
+            "path": "/images/el palmar/carpinchos_-_DSCN1191.webp",
             "thumbnail": "/images/el palmar/carpinchos_-_DSCN1191.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpinchos"
         },
         {
-            "src": "/images/el palmar/carpinchos_-_DSCN1212.webp",
+            "path": "/images/el palmar/carpinchos_-_DSCN1212.webp",
             "thumbnail": "/images/el palmar/carpinchos_-_DSCN1212.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpinchos"
         },
         {
-            "src": "/images/el palmar/carpinchos_-_DSCN1330.webp",
+            "path": "/images/el palmar/carpinchos_-_DSCN1330.webp",
             "thumbnail": "/images/el palmar/carpinchos_-_DSCN1330.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpinchos"
         },
         {
-            "src": "/images/el palmar/carpinchos_-_DSCN1341.webp",
+            "path": "/images/el palmar/carpinchos_-_DSCN1341.webp",
             "thumbnail": "/images/el palmar/carpinchos_-_DSCN1341.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpinchos"
         },
         {
-            "src": "/images/el palmar/carpinchos_-_DSCN2946.webp",
+            "path": "/images/el palmar/carpinchos_-_DSCN2946.webp",
             "thumbnail": "/images/el palmar/carpinchos_-_DSCN2946.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpinchos"
         },
         {
-            "src": "/images/el palmar/carpinchos_-_DSCN2957.webp",
+            "path": "/images/el palmar/carpinchos_-_DSCN2957.webp",
             "thumbnail": "/images/el palmar/carpinchos_-_DSCN2957.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpinchos"
         },
         {
-            "src": "/images/el palmar/carpinchos_-_DSCN2999.webp",
+            "path": "/images/el palmar/carpinchos_-_DSCN2999.webp",
             "thumbnail": "/images/el palmar/carpinchos_-_DSCN2999.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpinchos"
         },
         {
-            "src": "/images/el palmar/carpinchos_-_DSCN3301.webp",
+            "path": "/images/el palmar/carpinchos_-_DSCN3301.webp",
             "thumbnail": "/images/el palmar/carpinchos_-_DSCN3301.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpinchos"
         },
         {
-            "src": "/images/el palmar/carpintero campestre_-_DSCN1432.webp",
+            "path": "/images/el palmar/carpintero campestre_-_DSCN1432.webp",
             "thumbnail": "/images/el palmar/carpintero campestre_-_DSCN1432.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpintero campestre"
         },
         {
-            "src": "/images/el palmar/carpintero campestre_-_DSCN3283.webp",
+            "path": "/images/el palmar/carpintero campestre_-_DSCN3283.webp",
             "thumbnail": "/images/el palmar/carpintero campestre_-_DSCN3283.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpintero campestre"
         },
         {
-            "src": "/images/el palmar/carpintero real_-_DSCN3328.webp",
+            "path": "/images/el palmar/carpintero real_-_DSCN3328.webp",
             "thumbnail": "/images/el palmar/carpintero real_-_DSCN3328.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpintero real"
         },
         {
-            "src": "/images/el palmar/carpintero real_-_DSCN3329.webp",
+            "path": "/images/el palmar/carpintero real_-_DSCN3329.webp",
             "thumbnail": "/images/el palmar/carpintero real_-_DSCN3329.webp",
             "thumbnail_alt_text": "",
             "sub_html": "carpintero real"
         },
         {
-            "src": "/images/el palmar/celestino_-_DSCN2640.webp",
+            "path": "/images/el palmar/celestino_-_DSCN2640.webp",
             "thumbnail": "/images/el palmar/celestino_-_DSCN2640.webp",
             "thumbnail_alt_text": "",
             "sub_html": "celestino"
         },
         {
-            "src": "/images/el palmar/celestino_-_DSCN3296.webp",
+            "path": "/images/el palmar/celestino_-_DSCN3296.webp",
             "thumbnail": "/images/el palmar/celestino_-_DSCN3296.webp",
             "thumbnail_alt_text": "",
             "sub_html": "celestino"
         },
         {
-            "src": "/images/el palmar/chaja_-_DSCN2961.webp",
+            "path": "/images/el palmar/chaja_-_DSCN2961.webp",
             "thumbnail": "/images/el palmar/chaja_-_DSCN2961.webp",
             "thumbnail_alt_text": "",
             "sub_html": "chaja"
         },
         {
-            "src": "/images/el palmar/chaja_-_DSCN3222.webp",
+            "path": "/images/el palmar/chaja_-_DSCN3222.webp",
             "thumbnail": "/images/el palmar/chaja_-_DSCN3222.webp",
             "thumbnail_alt_text": "",
             "sub_html": "chaja"
         },
         {
-            "src": "/images/el palmar/chaja_-_DSCN3232.webp",
+            "path": "/images/el palmar/chaja_-_DSCN3232.webp",
             "thumbnail": "/images/el palmar/chaja_-_DSCN3232.webp",
             "thumbnail_alt_text": "",
             "sub_html": "chaja"
         },
         {
-            "src": "/images/el palmar/chiflon_-_DSCN1492.webp",
+            "path": "/images/el palmar/chiflon_-_DSCN1492.webp",
             "thumbnail": "/images/el palmar/chiflon_-_DSCN1492.webp",
             "thumbnail_alt_text": "",
             "sub_html": "chiflon"
         },
         {
-            "src": "/images/el palmar/chiflon_-_DSCN1493.webp",
+            "path": "/images/el palmar/chiflon_-_DSCN1493.webp",
             "thumbnail": "/images/el palmar/chiflon_-_DSCN1493.webp",
             "thumbnail_alt_text": "",
             "sub_html": "chiflon"
         },
         {
-            "src": "/images/el palmar/chimachima_-_DSCN1011.webp",
+            "path": "/images/el palmar/chimachima_-_DSCN1011.webp",
             "thumbnail": "/images/el palmar/chimachima_-_DSCN1011.webp",
             "thumbnail_alt_text": "",
             "sub_html": "chimachima"
         },
         {
-            "src": "/images/el palmar/chimachima_-_DSCN2936.webp",
+            "path": "/images/el palmar/chimachima_-_DSCN2936.webp",
             "thumbnail": "/images/el palmar/chimachima_-_DSCN2936.webp",
             "thumbnail_alt_text": "",
             "sub_html": "chimachima"
         },
         {
-            "src": "/images/el palmar/chingolo_-_DSCN3276.webp",
+            "path": "/images/el palmar/chingolo_-_DSCN3276.webp",
             "thumbnail": "/images/el palmar/chingolo_-_DSCN3276.webp",
             "thumbnail_alt_text": "",
             "sub_html": "chingolo"
         },
         {
-            "src": "/images/el palmar/escarabajo_-_DSCN1485.webp",
+            "path": "/images/el palmar/escarabajo_-_DSCN1485.webp",
             "thumbnail": "/images/el palmar/escarabajo_-_DSCN1485.webp",
             "thumbnail_alt_text": "",
             "sub_html": "escarabajo"
         },
         {
-            "src": "/images/el palmar/escarabajo_-_DSCN1488.webp",
+            "path": "/images/el palmar/escarabajo_-_DSCN1488.webp",
             "thumbnail": "/images/el palmar/escarabajo_-_DSCN1488.webp",
             "thumbnail_alt_text": "",
             "sub_html": "escarabajo"
         },
         {
-            "src": "/images/el palmar/esparvero variado_-_DSCN1454.webp",
+            "path": "/images/el palmar/esparvero variado_-_DSCN1454.webp",
             "thumbnail": "/images/el palmar/esparvero variado_-_DSCN1454.webp",
             "thumbnail_alt_text": "",
             "sub_html": "esparvero variado"
         },
         {
-            "src": "/images/el palmar/esparvero variado_-_DSCN1455.webp",
+            "path": "/images/el palmar/esparvero variado_-_DSCN1455.webp",
             "thumbnail": "/images/el palmar/esparvero variado_-_DSCN1455.webp",
             "thumbnail_alt_text": "",
             "sub_html": "esparvero variado"
         },
         {
-            "src": "/images/el palmar/esparvero variado_-_DSCN1456.webp",
+            "path": "/images/el palmar/esparvero variado_-_DSCN1456.webp",
             "thumbnail": "/images/el palmar/esparvero variado_-_DSCN1456.webp",
             "thumbnail_alt_text": "",
             "sub_html": "esparvero variado"
         },
         {
-            "src": "/images/el palmar/eurata hilaris_-_DSCN2799.webp",
+            "path": "/images/el palmar/eurata hilaris_-_DSCN2799.webp",
             "thumbnail": "/images/el palmar/eurata hilaris_-_DSCN2799.webp",
             "thumbnail_alt_text": "",
             "sub_html": "eurata hilaris"
         },
         {
-            "src": "/images/el palmar/frutero azul_-_DSCN3264.webp",
+            "path": "/images/el palmar/frutero azul_-_DSCN3264.webp",
             "thumbnail": "/images/el palmar/frutero azul_-_DSCN3264.webp",
             "thumbnail_alt_text": "",
             "sub_html": "frutero azul"
         },
         {
-            "src": "/images/el palmar/frutero azul_-_DSCN3267.webp",
+            "path": "/images/el palmar/frutero azul_-_DSCN3267.webp",
             "thumbnail": "/images/el palmar/frutero azul_-_DSCN3267.webp",
             "thumbnail_alt_text": "",
             "sub_html": "frutero azul"
         },
         {
-            "src": "/images/el palmar/fueguero_-_DSCN3010.webp",
+            "path": "/images/el palmar/fueguero_-_DSCN3010.webp",
             "thumbnail": "/images/el palmar/fueguero_-_DSCN3010.webp",
             "thumbnail_alt_text": "",
             "sub_html": "fueguero"
         },
         {
-            "src": "/images/el palmar/fásmidos_-_DSCN3161.webp",
+            "path": "/images/el palmar/fásmidos_-_DSCN3161.webp",
             "thumbnail": "/images/el palmar/fásmidos_-_DSCN3161.webp",
             "thumbnail_alt_text": "",
             "sub_html": "fásmidos"
         },
         {
-            "src": "/images/el palmar/halconcito colorado_-_DSCN3346.webp",
+            "path": "/images/el palmar/halconcito colorado_-_DSCN3346.webp",
             "thumbnail": "/images/el palmar/halconcito colorado_-_DSCN3346.webp",
             "thumbnail_alt_text": "",
             "sub_html": "halconcito colorado"
         },
         {
-            "src": "/images/el palmar/halconcito colorado_-_DSCN3347.webp",
+            "path": "/images/el palmar/halconcito colorado_-_DSCN3347.webp",
             "thumbnail": "/images/el palmar/halconcito colorado_-_DSCN3347.webp",
             "thumbnail_alt_text": "",
             "sub_html": "halconcito colorado"
         },
         {
-            "src": "/images/el palmar/hoco colorado_-_DSCN1261.webp",
+            "path": "/images/el palmar/hoco colorado_-_DSCN1261.webp",
             "thumbnail": "/images/el palmar/hoco colorado_-_DSCN1261.webp",
             "thumbnail_alt_text": "",
             "sub_html": "hoco colorado"
         },
         {
-            "src": "/images/el palmar/ipacaa_-_DSCN1316.webp",
+            "path": "/images/el palmar/ipacaa_-_DSCN1316.webp",
             "thumbnail": "/images/el palmar/ipacaa_-_DSCN1316.webp",
             "thumbnail_alt_text": "",
             "sub_html": "ipacaa"
         },
         {
-            "src": "/images/el palmar/ipacaa_-_DSCN3002.webp",
+            "path": "/images/el palmar/ipacaa_-_DSCN3002.webp",
             "thumbnail": "/images/el palmar/ipacaa_-_DSCN3002.webp",
             "thumbnail_alt_text": "",
             "sub_html": "ipacaa"
         },
         {
-            "src": "/images/el palmar/ipacaa_-_DSCN3257.webp",
+            "path": "/images/el palmar/ipacaa_-_DSCN3257.webp",
             "thumbnail": "/images/el palmar/ipacaa_-_DSCN3257.webp",
             "thumbnail_alt_text": "",
             "sub_html": "ipacaa"
         },
         {
-            "src": "/images/el palmar/ipacaa_-_DSCN3259.webp",
+            "path": "/images/el palmar/ipacaa_-_DSCN3259.webp",
             "thumbnail": "/images/el palmar/ipacaa_-_DSCN3259.webp",
             "thumbnail_alt_text": "",
             "sub_html": "ipacaa"
         },
         {
-            "src": "/images/el palmar/jilguero dorado_-_DSCN2942.webp",
+            "path": "/images/el palmar/jilguero dorado_-_DSCN2942.webp",
             "thumbnail": "/images/el palmar/jilguero dorado_-_DSCN2942.webp",
             "thumbnail_alt_text": "",
             "sub_html": "jilguero dorado"
         },
         {
-            "src": "/images/el palmar/jilguero dorado_-_DSCN2980.webp",
+            "path": "/images/el palmar/jilguero dorado_-_DSCN2980.webp",
             "thumbnail": "/images/el palmar/jilguero dorado_-_DSCN2980.webp",
             "thumbnail_alt_text": "",
             "sub_html": "jilguero dorado"
         },
         {
-            "src": "/images/el palmar/jote cabeza colorada_-_DSCN2920.webp",
+            "path": "/images/el palmar/jote cabeza colorada_-_DSCN2920.webp",
             "thumbnail": "/images/el palmar/jote cabeza colorada_-_DSCN2920.webp",
             "thumbnail_alt_text": "",
             "sub_html": "jote cabeza colorada"
         },
         {
-            "src": "/images/el palmar/jote cabeza colorada_-_DSCN2922.webp",
+            "path": "/images/el palmar/jote cabeza colorada_-_DSCN2922.webp",
             "thumbnail": "/images/el palmar/jote cabeza colorada_-_DSCN2922.webp",
             "thumbnail_alt_text": "",
             "sub_html": "jote cabeza colorada"
         },
         {
-            "src": "/images/el palmar/jote cabeza colorada_-_DSCN2927.webp",
+            "path": "/images/el palmar/jote cabeza colorada_-_DSCN2927.webp",
             "thumbnail": "/images/el palmar/jote cabeza colorada_-_DSCN2927.webp",
             "thumbnail_alt_text": "",
             "sub_html": "jote cabeza colorada"
         },
         {
-            "src": "/images/el palmar/jote cabeza colorada_-_DSCN2932.webp",
+            "path": "/images/el palmar/jote cabeza colorada_-_DSCN2932.webp",
             "thumbnail": "/images/el palmar/jote cabeza colorada_-_DSCN2932.webp",
             "thumbnail_alt_text": "",
             "sub_html": "jote cabeza colorada"
         },
         {
-            "src": "/images/el palmar/jote cabeza colorada_-_DSCN3175.webp",
+            "path": "/images/el palmar/jote cabeza colorada_-_DSCN3175.webp",
             "thumbnail": "/images/el palmar/jote cabeza colorada_-_DSCN3175.webp",
             "thumbnail_alt_text": "",
             "sub_html": "jote cabeza colorada"
         },
         {
-            "src": "/images/el palmar/jote cabeza colorada_-_DSCN3181.webp",
+            "path": "/images/el palmar/jote cabeza colorada_-_DSCN3181.webp",
             "thumbnail": "/images/el palmar/jote cabeza colorada_-_DSCN3181.webp",
             "thumbnail_alt_text": "",
             "sub_html": "jote cabeza colorada"
         },
         {
-            "src": "/images/el palmar/libelula_-_DSCN1254.webp",
+            "path": "/images/el palmar/libelula_-_DSCN1254.webp",
             "thumbnail": "/images/el palmar/libelula_-_DSCN1254.webp",
             "thumbnail_alt_text": "",
             "sub_html": "libelula"
         },
         {
-            "src": "/images/el palmar/libelula_-_DSCN2501.webp",
+            "path": "/images/el palmar/libelula_-_DSCN2501.webp",
             "thumbnail": "/images/el palmar/libelula_-_DSCN2501.webp",
             "thumbnail_alt_text": "",
             "sub_html": "libelula"
         },
         {
-            "src": "/images/el palmar/libelula_-_DSCN2628.webp",
+            "path": "/images/el palmar/libelula_-_DSCN2628.webp",
             "thumbnail": "/images/el palmar/libelula_-_DSCN2628.webp",
             "thumbnail_alt_text": "",
             "sub_html": "libelula"
         },
         {
-            "src": "/images/el palmar/mantis real_-_DSCN2859.webp",
+            "path": "/images/el palmar/mantis real_-_DSCN2859.webp",
             "thumbnail": "/images/el palmar/mantis real_-_DSCN2859.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mantis real"
         },
         {
-            "src": "/images/el palmar/mariposa ajedrezada_-_DSCN1158.webp",
+            "path": "/images/el palmar/mariposa ajedrezada_-_DSCN1158.webp",
             "thumbnail": "/images/el palmar/mariposa ajedrezada_-_DSCN1158.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa ajedrezada"
         },
         {
-            "src": "/images/el palmar/mariposa ajedrezada_-_DSCN1162.webp",
+            "path": "/images/el palmar/mariposa ajedrezada_-_DSCN1162.webp",
             "thumbnail": "/images/el palmar/mariposa ajedrezada_-_DSCN1162.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa ajedrezada"
         },
         {
-            "src": "/images/el palmar/mariposa ajedrezada_-_DSCN2573.webp",
+            "path": "/images/el palmar/mariposa ajedrezada_-_DSCN2573.webp",
             "thumbnail": "/images/el palmar/mariposa ajedrezada_-_DSCN2573.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa ajedrezada"
         },
         {
-            "src": "/images/el palmar/mariposa azufrada_-_DSCN2593.webp",
+            "path": "/images/el palmar/mariposa azufrada_-_DSCN2593.webp",
             "thumbnail": "/images/el palmar/mariposa azufrada_-_DSCN2593.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa azufrada"
         },
         {
-            "src": "/images/el palmar/mariposa azufrada_-_DSCN2605.webp",
+            "path": "/images/el palmar/mariposa azufrada_-_DSCN2605.webp",
             "thumbnail": "/images/el palmar/mariposa azufrada_-_DSCN2605.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa azufrada"
         },
         {
-            "src": "/images/el palmar/mariposa danzarina chica_-_DSCN1134.webp",
+            "path": "/images/el palmar/mariposa danzarina chica_-_DSCN1134.webp",
             "thumbnail": "/images/el palmar/mariposa danzarina chica_-_DSCN1134.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa danzarina chica"
         },
         {
-            "src": "/images/el palmar/mariposa danzarina chica_-_DSCN2531.webp",
+            "path": "/images/el palmar/mariposa danzarina chica_-_DSCN2531.webp",
             "thumbnail": "/images/el palmar/mariposa danzarina chica_-_DSCN2531.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa danzarina chica"
         },
         {
-            "src": "/images/el palmar/mariposa danzarina chica_-_DSCN2565.webp",
+            "path": "/images/el palmar/mariposa danzarina chica_-_DSCN2565.webp",
             "thumbnail": "/images/el palmar/mariposa danzarina chica_-_DSCN2565.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa danzarina chica"
         },
         {
-            "src": "/images/el palmar/mariposa de borde rojo_-_DSCN2587.webp",
+            "path": "/images/el palmar/mariposa de borde rojo_-_DSCN2587.webp",
             "thumbnail": "/images/el palmar/mariposa de borde rojo_-_DSCN2587.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa de borde rojo"
         },
         {
-            "src": "/images/el palmar/mariposa de borde rojo_-_DSCN2589.webp",
+            "path": "/images/el palmar/mariposa de borde rojo_-_DSCN2589.webp",
             "thumbnail": "/images/el palmar/mariposa de borde rojo_-_DSCN2589.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa de borde rojo"
         },
         {
-            "src": "/images/el palmar/mariposa perezosa_-_DSCN2548.webp",
+            "path": "/images/el palmar/mariposa perezosa_-_DSCN2548.webp",
             "thumbnail": "/images/el palmar/mariposa perezosa_-_DSCN2548.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa perezosa"
         },
         {
-            "src": "/images/el palmar/mariposa perezosa_-_DSCN2560.webp",
+            "path": "/images/el palmar/mariposa perezosa_-_DSCN2560.webp",
             "thumbnail": "/images/el palmar/mariposa perezosa_-_DSCN2560.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa perezosa"
         },
         {
-            "src": "/images/el palmar/mariposa perezosa_-_DSCN2562.webp",
+            "path": "/images/el palmar/mariposa perezosa_-_DSCN2562.webp",
             "thumbnail": "/images/el palmar/mariposa perezosa_-_DSCN2562.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa perezosa"
         },
         {
-            "src": "/images/el palmar/mariposa princesa perlada_-_DSCN2611.webp",
+            "path": "/images/el palmar/mariposa princesa perlada_-_DSCN2611.webp",
             "thumbnail": "/images/el palmar/mariposa princesa perlada_-_DSCN2611.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa princesa perlada"
         },
         {
-            "src": "/images/el palmar/mariposa princesa perlada_-_DSCN2614.webp",
+            "path": "/images/el palmar/mariposa princesa perlada_-_DSCN2614.webp",
             "thumbnail": "/images/el palmar/mariposa princesa perlada_-_DSCN2614.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa princesa perlada"
         },
         {
-            "src": "/images/el palmar/mariposa princesa roja_-_DSCN2579.webp",
+            "path": "/images/el palmar/mariposa princesa roja_-_DSCN2579.webp",
             "thumbnail": "/images/el palmar/mariposa princesa roja_-_DSCN2579.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa princesa roja"
         },
         {
-            "src": "/images/el palmar/mariposa reina rojiza_-_DSCN1294.webp",
+            "path": "/images/el palmar/mariposa reina rojiza_-_DSCN1294.webp",
             "thumbnail": "/images/el palmar/mariposa reina rojiza_-_DSCN1294.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa reina rojiza"
         },
         {
-            "src": "/images/el palmar/mariposa saltarina amarrilla_-_DSCN1302.webp",
+            "path": "/images/el palmar/mariposa saltarina amarrilla_-_DSCN1302.webp",
             "thumbnail": "/images/el palmar/mariposa saltarina amarrilla_-_DSCN1302.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa saltarina amarrilla"
         },
         {
-            "src": "/images/el palmar/mariposa_-_DSCN1024.webp",
+            "path": "/images/el palmar/mariposa_-_DSCN1024.webp",
             "thumbnail": "/images/el palmar/mariposa_-_DSCN1024.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa"
         },
         {
-            "src": "/images/el palmar/mariposa_-_DSCN3016.webp",
+            "path": "/images/el palmar/mariposa_-_DSCN3016.webp",
             "thumbnail": "/images/el palmar/mariposa_-_DSCN3016.webp",
             "thumbnail_alt_text": "",
             "sub_html": "mariposa"
         },
         {
-            "src": "/images/el palmar/martin pescador chico_-_DSCN1304.webp",
+            "path": "/images/el palmar/martin pescador chico_-_DSCN1304.webp",
             "thumbnail": "/images/el palmar/martin pescador chico_-_DSCN1304.webp",
             "thumbnail_alt_text": "",
             "sub_html": "martin pescador chico"
         },
         {
-            "src": "/images/el palmar/monjita blanca_-_DSCN1143.webp",
+            "path": "/images/el palmar/monjita blanca_-_DSCN1143.webp",
             "thumbnail": "/images/el palmar/monjita blanca_-_DSCN1143.webp",
             "thumbnail_alt_text": "",
             "sub_html": "monjita blanca"
         },
         {
-            "src": "/images/el palmar/monterita cabeza negra_-_DSCN3198.webp",
+            "path": "/images/el palmar/monterita cabeza negra_-_DSCN3198.webp",
             "thumbnail": "/images/el palmar/monterita cabeza negra_-_DSCN3198.webp",
             "thumbnail_alt_text": "",
             "sub_html": "monterita cabeza negra"
         },
         {
-            "src": "/images/el palmar/pato cutiri_-_DSCN1251.webp",
+            "path": "/images/el palmar/pato cutiri_-_DSCN1251.webp",
             "thumbnail": "/images/el palmar/pato cutiri_-_DSCN1251.webp",
             "thumbnail_alt_text": "",
             "sub_html": "pato cutiri"
         },
         {
-            "src": "/images/el palmar/pato cutiri_-_DSCN2482.webp",
+            "path": "/images/el palmar/pato cutiri_-_DSCN2482.webp",
             "thumbnail": "/images/el palmar/pato cutiri_-_DSCN2482.webp",
             "thumbnail_alt_text": "",
             "sub_html": "pato cutiri"
         },
         {
-            "src": "/images/el palmar/pato cutiri_-_DSCN3262.webp",
+            "path": "/images/el palmar/pato cutiri_-_DSCN3262.webp",
             "thumbnail": "/images/el palmar/pato cutiri_-_DSCN3262.webp",
             "thumbnail_alt_text": "",
             "sub_html": "pato cutiri"
         },
         {
-            "src": "/images/el palmar/pepitero de collar_-_DSCN2972.webp",
+            "path": "/images/el palmar/pepitero de collar_-_DSCN2972.webp",
             "thumbnail": "/images/el palmar/pepitero de collar_-_DSCN2972.webp",
             "thumbnail_alt_text": "",
             "sub_html": "pepitero de collar"
         },
         {
-            "src": "/images/el palmar/pirincho_-_DSCN1438.webp",
+            "path": "/images/el palmar/pirincho_-_DSCN1438.webp",
             "thumbnail": "/images/el palmar/pirincho_-_DSCN1438.webp",
             "thumbnail_alt_text": "",
             "sub_html": "pirincho"
         },
         {
-            "src": "/images/el palmar/pirincho_-_DSCN1440.webp",
+            "path": "/images/el palmar/pirincho_-_DSCN1440.webp",
             "thumbnail": "/images/el palmar/pirincho_-_DSCN1440.webp",
             "thumbnail_alt_text": "",
             "sub_html": "pirincho"
         },
         {
-            "src": "/images/el palmar/polilla de la seda doméstica_-_DSCN1378.webp",
+            "path": "/images/el palmar/polilla de la seda doméstica_-_DSCN1378.webp",
             "thumbnail": "/images/el palmar/polilla de la seda doméstica_-_DSCN1378.webp",
             "thumbnail_alt_text": "",
             "sub_html": "polilla de la seda doméstica"
         },
         {
-            "src": "/images/el palmar/polilla leopardo gris_-_DSCN2836.webp",
+            "path": "/images/el palmar/polilla leopardo gris_-_DSCN2836.webp",
             "thumbnail": "/images/el palmar/polilla leopardo gris_-_DSCN2836.webp",
             "thumbnail_alt_text": "",
             "sub_html": "polilla leopardo gris"
         },
         {
-            "src": "/images/el palmar/reinamora grande_-_DSCN1287.webp",
+            "path": "/images/el palmar/reinamora grande_-_DSCN1287.webp",
             "thumbnail": "/images/el palmar/reinamora grande_-_DSCN1287.webp",
             "thumbnail_alt_text": "",
             "sub_html": "reinamora grande"
         },
         {
-            "src": "/images/el palmar/reinamora grande_-_DSCN3304.webp",
+            "path": "/images/el palmar/reinamora grande_-_DSCN3304.webp",
             "thumbnail": "/images/el palmar/reinamora grande_-_DSCN3304.webp",
             "thumbnail_alt_text": "",
             "sub_html": "reinamora grande"
         },
         {
-            "src": "/images/el palmar/reinamora grande_-_DSCN3306.webp",
+            "path": "/images/el palmar/reinamora grande_-_DSCN3306.webp",
             "thumbnail": "/images/el palmar/reinamora grande_-_DSCN3306.webp",
             "thumbnail_alt_text": "",
             "sub_html": "reinamora grande"
         },
         {
-            "src": "/images/el palmar/reinamora grande_-_DSCN3316.webp",
+            "path": "/images/el palmar/reinamora grande_-_DSCN3316.webp",
             "thumbnail": "/images/el palmar/reinamora grande_-_DSCN3316.webp",
             "thumbnail_alt_text": "",
             "sub_html": "reinamora grande"
         },
         {
-            "src": "/images/el palmar/reinamora grande_-_DSCN3319.webp",
+            "path": "/images/el palmar/reinamora grande_-_DSCN3319.webp",
             "thumbnail": "/images/el palmar/reinamora grande_-_DSCN3319.webp",
             "thumbnail_alt_text": "",
             "sub_html": "reinamora grande"
         },
         {
-            "src": "/images/el palmar/saltamonte y langosta_-_DSCN1085.webp",
+            "path": "/images/el palmar/saltamonte y langosta_-_DSCN1085.webp",
             "thumbnail": "/images/el palmar/saltamonte y langosta_-_DSCN1085.webp",
             "thumbnail_alt_text": "",
             "sub_html": "saltamonte y langosta"
         },
         {
-            "src": "/images/el palmar/saltamonte y langosta_-_DSCN1479.webp",
+            "path": "/images/el palmar/saltamonte y langosta_-_DSCN1479.webp",
             "thumbnail": "/images/el palmar/saltamonte y langosta_-_DSCN1479.webp",
             "thumbnail_alt_text": "",
             "sub_html": "saltamonte y langosta"
         },
         {
-            "src": "/images/el palmar/saltamonte y langosta_-_DSCN2476.webp",
+            "path": "/images/el palmar/saltamonte y langosta_-_DSCN2476.webp",
             "thumbnail": "/images/el palmar/saltamonte y langosta_-_DSCN2476.webp",
             "thumbnail_alt_text": "",
             "sub_html": "saltamonte y langosta"
         },
         {
-            "src": "/images/el palmar/saltamonte y langosta_-_DSCN2769.webp",
+            "path": "/images/el palmar/saltamonte y langosta_-_DSCN2769.webp",
             "thumbnail": "/images/el palmar/saltamonte y langosta_-_DSCN2769.webp",
             "thumbnail_alt_text": "",
             "sub_html": "saltamonte y langosta"
         },
         {
-            "src": "/images/el palmar/sin identificar_-_DSCN3193.webp",
+            "path": "/images/el palmar/sin identificar_-_DSCN3193.webp",
             "thumbnail": "/images/el palmar/sin identificar_-_DSCN3193.webp",
             "thumbnail_alt_text": "",
             "sub_html": "sin identificar"
         },
         {
-            "src": "/images/el palmar/tacuarita azul_-_DSCN3121.webp",
+            "path": "/images/el palmar/tacuarita azul_-_DSCN3121.webp",
             "thumbnail": "/images/el palmar/tacuarita azul_-_DSCN3121.webp",
             "thumbnail_alt_text": "",
             "sub_html": "tacuarita azul"
         },
         {
-            "src": "/images/el palmar/taguato (sureño)_-_DSCN1225.webp",
+            "path": "/images/el palmar/taguato (sureño)_-_DSCN1225.webp",
             "thumbnail": "/images/el palmar/taguato (sureño)_-_DSCN1225.webp",
             "thumbnail_alt_text": "",
             "sub_html": "taguato (sureño)"
         },
         {
-            "src": "/images/el palmar/taguato (sureño)_-_DSCN1342.webp",
+            "path": "/images/el palmar/taguato (sureño)_-_DSCN1342.webp",
             "thumbnail": "/images/el palmar/taguato (sureño)_-_DSCN1342.webp",
             "thumbnail_alt_text": "",
             "sub_html": "taguato (sureño)"
         },
         {
-            "src": "/images/el palmar/taguato (sureño)_-_DSCN1441.webp",
+            "path": "/images/el palmar/taguato (sureño)_-_DSCN1441.webp",
             "thumbnail": "/images/el palmar/taguato (sureño)_-_DSCN1441.webp",
             "thumbnail_alt_text": "",
             "sub_html": "taguato (sureño)"
         },
         {
-            "src": "/images/el palmar/taguato (sureño)_-_DSCN1443.webp",
+            "path": "/images/el palmar/taguato (sureño)_-_DSCN1443.webp",
             "thumbnail": "/images/el palmar/taguato (sureño)_-_DSCN1443.webp",
             "thumbnail_alt_text": "",
             "sub_html": "taguato (sureño)"
         },
         {
-            "src": "/images/el palmar/taguato (sureño)_-_DSCN2647.webp",
+            "path": "/images/el palmar/taguato (sureño)_-_DSCN2647.webp",
             "thumbnail": "/images/el palmar/taguato (sureño)_-_DSCN2647.webp",
             "thumbnail_alt_text": "",
             "sub_html": "taguato (sureño)"
         },
         {
-            "src": "/images/el palmar/taguato (sureño)_-_DSCN3118.webp",
+            "path": "/images/el palmar/taguato (sureño)_-_DSCN3118.webp",
             "thumbnail": "/images/el palmar/taguato (sureño)_-_DSCN3118.webp",
             "thumbnail_alt_text": "",
             "sub_html": "taguato (sureño)"
         },
         {
-            "src": "/images/el palmar/torcaza_-_DSCN2522.webp",
+            "path": "/images/el palmar/torcaza_-_DSCN2522.webp",
             "thumbnail": "/images/el palmar/torcaza_-_DSCN2522.webp",
             "thumbnail_alt_text": "",
             "sub_html": "torcaza"
         },
         {
-            "src": "/images/el palmar/tortuga pintada_-_DSCN1334.webp",
+            "path": "/images/el palmar/tortuga pintada_-_DSCN1334.webp",
             "thumbnail": "/images/el palmar/tortuga pintada_-_DSCN1334.webp",
             "thumbnail_alt_text": "",
             "sub_html": "tortuga pintada"
         },
         {
-            "src": "/images/el palmar/tuyuyu_-_DSCN1238.webp",
+            "path": "/images/el palmar/tuyuyu_-_DSCN1238.webp",
             "thumbnail": "/images/el palmar/tuyuyu_-_DSCN1238.webp",
             "thumbnail_alt_text": "",
             "sub_html": "tuyuyu"
         },
         {
-            "src": "/images/el palmar/tuyuyu_-_DSCN1243.webp",
+            "path": "/images/el palmar/tuyuyu_-_DSCN1243.webp",
             "thumbnail": "/images/el palmar/tuyuyu_-_DSCN1243.webp",
             "thumbnail_alt_text": "",
             "sub_html": "tuyuyu"
         },
         {
-            "src": "/images/el palmar/urraca_-_DSCN1108.webp",
+            "path": "/images/el palmar/urraca_-_DSCN1108.webp",
             "thumbnail": "/images/el palmar/urraca_-_DSCN1108.webp",
             "thumbnail_alt_text": "",
             "sub_html": "urraca"
         },
         {
-            "src": "/images/el palmar/urraca_-_DSCN1111.webp",
+            "path": "/images/el palmar/urraca_-_DSCN1111.webp",
             "thumbnail": "/images/el palmar/urraca_-_DSCN1111.webp",
             "thumbnail_alt_text": "",
             "sub_html": "urraca"
         },
         {
-            "src": "/images/el palmar/urraca_-_DSCN3113.webp",
+            "path": "/images/el palmar/urraca_-_DSCN3113.webp",
             "thumbnail": "/images/el palmar/urraca_-_DSCN3113.webp",
             "thumbnail_alt_text": "",
             "sub_html": "urraca"
         },
         {
-            "src": "/images/el palmar/urraca_-_DSCN3152.webp",
+            "path": "/images/el palmar/urraca_-_DSCN3152.webp",
             "thumbnail": "/images/el palmar/urraca_-_DSCN3152.webp",
             "thumbnail_alt_text": "",
             "sub_html": "urraca"
         },
         {
-            "src": "/images/el palmar/urraca_-_DSCN3153.webp",
+            "path": "/images/el palmar/urraca_-_DSCN3153.webp",
             "thumbnail": "/images/el palmar/urraca_-_DSCN3153.webp",
             "thumbnail_alt_text": "",
             "sub_html": "urraca"
         },
         {
-            "src": "/images/el palmar/vizcacha_-_DSCN2675.webp",
+            "path": "/images/el palmar/vizcacha_-_DSCN2675.webp",
             "thumbnail": "/images/el palmar/vizcacha_-_DSCN2675.webp",
             "thumbnail_alt_text": "",
             "sub_html": "vizcacha"
         },
         {
-            "src": "/images/el palmar/vizcacha_-_DSCN2681.webp",
+            "path": "/images/el palmar/vizcacha_-_DSCN2681.webp",
             "thumbnail": "/images/el palmar/vizcacha_-_DSCN2681.webp",
             "thumbnail_alt_text": "",
             "sub_html": "vizcacha"
         },
         {
-            "src": "/images/el palmar/vizcacha_-_DSCN2682.webp",
+            "path": "/images/el palmar/vizcacha_-_DSCN2682.webp",
             "thumbnail": "/images/el palmar/vizcacha_-_DSCN2682.webp",
             "thumbnail_alt_text": "",
             "sub_html": "vizcacha"

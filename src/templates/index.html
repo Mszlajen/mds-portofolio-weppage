@@ -10,7 +10,7 @@
               <h2 class="mb-3">{{gallery.title}}</h2>
               <a href="{{gallery.link}}" class="btn btn-outline-white py-2 px-4">More Photos</a>
             </div>
-            <img src="{{gallery.thumbnail}}" alt="{{gallery.alt_text}}" class="img-fluid">
+            <img src="{{gallery.image_url}}{{gallery.thumbnail}}" alt="{{gallery.alt_text}}" class="img-fluid">
           </div>
         </div>
         {% endfor %}

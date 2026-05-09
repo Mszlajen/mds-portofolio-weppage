@@ -2,135 +2,136 @@
     "file": "playasdoradas.html",
     "publish_date": "2025-11-30",
     "title": "Playas Doradas",
+    "image_url": "",
     "images": [
         {
-            "src": "/images/playas doradas/DSCN5420.webp",
+            "path": "/images/playas doradas/DSCN5420.webp",
             "thumbnail": "/images/playas doradas/DSCN5420.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5446.webp",
+            "path": "/images/playas doradas/DSCN5446.webp",
             "thumbnail": "/images/playas doradas/DSCN5446.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5471.webp",
+            "path": "/images/playas doradas/DSCN5471.webp",
             "thumbnail": "/images/playas doradas/DSCN5471.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5509.webp",
+            "path": "/images/playas doradas/DSCN5509.webp",
             "thumbnail": "/images/playas doradas/DSCN5509.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5524.webp",
+            "path": "/images/playas doradas/DSCN5524.webp",
             "thumbnail": "/images/playas doradas/DSCN5524.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5543.webp",
+            "path": "/images/playas doradas/DSCN5543.webp",
             "thumbnail": "/images/playas doradas/DSCN5543.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5609.webp",
+            "path": "/images/playas doradas/DSCN5609.webp",
             "thumbnail": "/images/playas doradas/DSCN5609.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5618.webp",
+            "path": "/images/playas doradas/DSCN5618.webp",
             "thumbnail": "/images/playas doradas/DSCN5618.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5621.webp",
+            "path": "/images/playas doradas/DSCN5621.webp",
             "thumbnail": "/images/playas doradas/DSCN5621.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5680.webp",
+            "path": "/images/playas doradas/DSCN5680.webp",
             "thumbnail": "/images/playas doradas/DSCN5680.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5700.webp",
+            "path": "/images/playas doradas/DSCN5700.webp",
             "thumbnail": "/images/playas doradas/DSCN5700.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5737.webp",
+            "path": "/images/playas doradas/DSCN5737.webp",
             "thumbnail": "/images/playas doradas/DSCN5737.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5771.webp",
+            "path": "/images/playas doradas/DSCN5771.webp",
             "thumbnail": "/images/playas doradas/DSCN5771.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5879.webp",
+            "path": "/images/playas doradas/DSCN5879.webp",
             "thumbnail": "/images/playas doradas/DSCN5879.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5902.webp",
+            "path": "/images/playas doradas/DSCN5902.webp",
             "thumbnail": "/images/playas doradas/DSCN5902.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5920.webp",
+            "path": "/images/playas doradas/DSCN5920.webp",
             "thumbnail": "/images/playas doradas/DSCN5920.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN5992.webp",
+            "path": "/images/playas doradas/DSCN5992.webp",
             "thumbnail": "/images/playas doradas/DSCN5992.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN6016.webp",
+            "path": "/images/playas doradas/DSCN6016.webp",
             "thumbnail": "/images/playas doradas/DSCN6016.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN6036.webp",
+            "path": "/images/playas doradas/DSCN6036.webp",
             "thumbnail": "/images/playas doradas/DSCN6036.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN6049.webp",
+            "path": "/images/playas doradas/DSCN6049.webp",
             "thumbnail": "/images/playas doradas/DSCN6049.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN6069.webp",
+            "path": "/images/playas doradas/DSCN6069.webp",
             "thumbnail": "/images/playas doradas/DSCN6069.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""
         },
         {
-            "src": "/images/playas doradas/DSCN6110.webp",
+            "path": "/images/playas doradas/DSCN6110.webp",
             "thumbnail": "/images/playas doradas/DSCN6110.webp",
             "thumbnail_alt_text": "",
             "sub_html": ""

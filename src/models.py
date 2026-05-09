@@ -7,10 +7,11 @@ from functools import cached_property
 class Gallery(BaseModel):
     title: str
     publish_date: str
+    image_url: str = ""
     file: str | None = None
     group: str | None = None
     images: 'list[Image]'
-    thumbnail: str = Field(default_factory=lambda data: data['images'][0].src)
+    thumbnail: str = Field(default_factory=lambda data: data['images'][0].path)
     alt_text: str = ""
     hide: bool = False
 
@@ -25,7 +26,7 @@ class Gallery(BaseModel):
 
 
 class Image(BaseModel):
-    src: str
-    thumbnail: str = Field(default_factory=lambda data: data['src'])
+    path: str
+    thumbnail: str = Field(default_factory=lambda data: data['path'])
     thumbnail_alt_text: str = ""
     sub_html: str = ""

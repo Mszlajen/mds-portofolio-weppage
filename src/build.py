@@ -29,16 +29,16 @@ def json_load(file_path: str) -> dict:
         return load(f)
 
 if __name__ == '__main__':
-    input_file = input('Configuration folder (src/pages): ') or 'src/pages'
+    input_files = input('Configuration folder (src/pages): ') or path.join('src', 'pages')
     output_folder = input('Output folder (bin): ') or 'bin'
-    templates_folder = input('Template folder (src/templates): ') or 'src/templates'
+    templates_folder = input('Template folder (src/templates): ') or path.join('src', 'templates')
     update_rss = bool_input('Update RSS Feed', 'y')
 
     env = Environment(loader=FileSystemLoader(templates_folder), autoescape=select_autoescape())
     
-    all_galleries = sorted(((folder.rsplit('/', 1)[-1],
-                             [Gallery.model_validate(json_load(path.join(folder, file)) | {'group': folder.rsplit('/', 1)[-1]})])
-                            for folder, _, files in list(walk('src/pages')) for file in files),
+    all_galleries = sorted(((folder.rsplit(path.sep, 1)[-1],
+                             [Gallery.model_validate(json_load(path.join(folder, file)) | {'group': folder.rsplit(path.sep, 1)[-1]})])
+                            for folder, _, files in list(walk(input_files)) for file in files),
                            key=lambda t: t[0], 
                            reverse=True)
     
