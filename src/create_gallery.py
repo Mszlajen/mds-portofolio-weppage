@@ -19,7 +19,7 @@ if __name__ == '__main__':
     output_folder = input(f'Output folder ({default_output}): ') or default_output
     url = input(f"Url ({default_url}): ") or default_url
     
-    images = [Image(path=f'/images/{storage_folder}/{f}').model_dump() for f in sorted(listdir(input_folder))]
+    images = [Image(path=f'/images/{storage_folder}/{f}', thumbnail=f'/images/{storage_folder}/thumbnails/{f}').model_dump() for f in sorted(listdir(input_folder)) if path.isfile(path.join(input_folder, f))]
     gallery = Gallery(image_url=url, title = name, publish_date=published_date, file = html_file, images = images)
 
     makedirs(output_folder, exist_ok=True)
