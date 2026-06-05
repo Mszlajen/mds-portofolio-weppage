@@ -13,7 +13,7 @@ if __name__ == '__main__':
 
     for folder, _, files in os.walk(input_folder):
         for filename in files:
-            new_name = filename.lower().replace('\r', '').replace('\n', '').replace(' ', '_')[:-4]
+            new_name = filename.replace('\r', '').replace('\n', '').replace(' ', '_').rsplit('.', 1)[0]
             new_name = f"{folder_part}_{new_name}" if (folder_part := folder[len(input_folder) + 1:]) else new_name
             subprocess.run(["gm", "convert", os.path.join(folder, filename), "-auto-orient", "-quality", str(quality), os.path.join(output_folder, f"{new_name}.webp")])
             subprocess.run(["gm", "convert", os.path.join(folder, filename), "-scale", f"{thumbnail_scale}x{thumbnail_scale}%", os.path.join(output_folder, "thumbnails", f"{new_name}.webp")])
