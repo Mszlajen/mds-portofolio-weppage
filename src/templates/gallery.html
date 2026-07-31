@@ -15,6 +15,19 @@
         </div>
 
       </div>
+
+      {% if gallery.descriptions %}
+      <div class="row mb-5">
+
+        <div class="col-sm-6 border-right">
+          {{gallery.descriptions.es}}
+        </div>
+        <div class="col-sm-6 border-left">
+          {{gallery.descriptions.en}}
+        </div>
+      </div>
+      {% endif %}
+
       <div class="row" id="lightgallery">
           {% for image in gallery.images %}
           

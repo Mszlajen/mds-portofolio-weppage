@@ -4,6 +4,14 @@ import datetime
 from email import utils
 from functools import cached_property
 
+
+class Descriptions(BaseModel):
+    es: str = ""
+    en: str = ""
+
+    def __bool__(self):
+        return bool(self.es or self.en)
+
 class Gallery(BaseModel):
     title: str
     publish_date: str
@@ -13,6 +21,7 @@ class Gallery(BaseModel):
     images: 'list[Image]'
     thumbnail: str = Field(default_factory=lambda data: data['images'][0].path)
     alt_text: str = ""
+    descriptions: 'Descriptions' = Field(default_factory=Descriptions)
     hide: bool = False
 
     @cached_property
