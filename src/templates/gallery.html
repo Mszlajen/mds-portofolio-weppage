@@ -17,13 +17,12 @@
       </div>
 
       {% if gallery.descriptions %}
-      <div class="row mb-5">
+      <div class="row mb-5 justify-content-center">
 
-        <div class="col-sm-6 border-right">
-          {{gallery.descriptions.es}}
-        </div>
-        <div class="col-sm-6 border-left">
-          {{gallery.descriptions.en}}
+        <div>
+          [ES] {{gallery.descriptions.es}}
+          <br>
+          [EN] {{gallery.descriptions.en}}
         </div>
       </div>
       {% endif %}
