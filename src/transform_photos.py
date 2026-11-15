@@ -17,3 +17,4 @@ if __name__ == '__main__':
             new_name = f"{folder_part}_{new_name}" if (folder_part := folder[len(input_folder) + 1:]) else new_name
             subprocess.run(["gm", "convert", os.path.join(folder, filename), "-auto-orient", "-quality", str(quality), os.path.join(output_folder, f"{new_name}.webp")])
             subprocess.run(["gm", "convert", os.path.join(folder, filename), "-scale", f"{thumbnail_scale}x{thumbnail_scale}%", os.path.join(output_folder, "thumbnails", f"{new_name}.webp")])
+            print(f"Converting file {filename}", end='\r')
